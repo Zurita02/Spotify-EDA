@@ -1,0 +1,810 @@
+,id,name,artist,album,popularity,duration,explicit,added_at,released,main_genre,release_decade
+0,50iiDJGpAPdr2VTrz999XA,House Of Balloons / Glass Table Girls,The Weeknd,Trilogy,74,6.8,Explicit,2025-09-25,2012-11-13,R&B,2010
+1,3lfjd8A0DkB84yrvjzkbry,Hora Loca,Rawayana,¿Quién trae las cornetas?,66,3.2,Clean,2025-09-20,2023-09-21,Other,2020
+2,5unjCay0kUjuej5ebn4nS4,Down In Atlanta,Pharrell Williams,Down In Atlanta,60,2.7,Explicit,2025-09-20,2022-11-18,R&B,2020
+3,07DOGcAf5wXvgT2dCfbutE,Mala Mía,Mori,Mala Mía,40,4.3,Clean,2025-09-20,2024-04-25,Latin,2020
+4,4ab39A1ehnZyegM1D9ca3C,RIDE,AntoneNow,GREY MATTER,47,2.8,Clean,2025-09-20,2024-10-04,Hip Hop,2020
+5,2n1MTLCis6qPSDKdr5XSDI,Oh Qué Será?,Willie Colón,Greatest Hits,72,5.1,Clean,2025-09-20,2008-02-26,Other,2000
+6,3RmFPuTTAjSQ2pbEd2j9oA,Loser,Tame Impala,Loser,80,3.7,Explicit,2025-09-19,2025-09-03,Other,2020
+7,0Ji9UonfwC90rbZ4IaQhOb,City Walls,Twenty One Pilots,Breach,81,5.4,Clean,2025-09-19,2025-09-12,Alternative/Indie,2020
+8,0bZzyFUzIiqoTH744vtauR,No me tires flores,Alejandro Sanz,No me tires flores,69,3.4,Clean,2025-09-19,2025-09-19,Latin,2020
+9,1n8GIWPeFqj36RO1bPfNdd,My Only Angel,Aerosmith,My Only Angel,69,4.3,Clean,2025-09-19,2025-09-19,Rock,2020
+10,6xOEgzkMSZJKz6qtCJsQL5,La Plena - W Sound 05,W Sound,La Plena (W Sound 05),82,2.5,Explicit,2025-09-19,2025-02-20,Electronic,2020
+11,1C7NXX8UJ6pgNx8EkmyZDd,si te pillara,Beéle,BORONDO,88,3.1,Clean,2025-09-19,2025-05-15,Latin,2020
+12,6VwBbL8CzPiC4QV66ay7oR,Wicked Games,The Weeknd,Trilogy,68,5.4,Explicit,2025-09-13,2012-11-13,R&B,2010
+13,2Ch7LmS7r2Gy2kc64wv3Bz,Die For You,The Weeknd,Starboy,79,4.3,Clean,2025-09-10,2016-11-25,R&B,2010
+14,1oGdVdYjeQvojGKDddxLQQ,True Colors,The Weeknd,Starboy,61,3.4,Clean,2025-09-10,2016-11-25,R&B,2010
+15,7rVmzyFA7f4rNGl9onF21E,Take Me Back To LA,The Weeknd,Hurry Up Tomorrow,68,4.2,Clean,2025-09-09,2025-01-31,R&B,2020
+16,0FIDCNYYjNvPVimz5icugS,Timeless (feat Playboi Carti),The Weeknd,Hurry Up Tomorrow,90,4.3,Explicit,2025-09-09,2025-01-31,R&B,2020
+17,0bcZ7xN9IcjSNxLerzR2yl,I Can't Wait To Get There,The Weeknd,Hurry Up Tomorrow,67,3.1,Explicit,2025-09-09,2025-01-31,R&B,2020
+18,637oNhilCI9UlkWkUW4Grt,Enjoy The Show (feat. Future),The Weeknd,Hurry Up Tomorrow,67,5.0,Explicit,2025-09-09,2025-01-31,R&B,2020
+19,2gyHr9WqZeMtzJOpWGuGo6,"Reflections Laughing (feat. Travis Scott, Florence + The Machine)",The Weeknd,Hurry Up Tomorrow,71,4.9,Explicit,2025-09-09,2025-01-31,R&B,2020
+20,5rzI6Jnlhx8DgVgsOLorfW,Baptized In Fear,The Weeknd,Hurry Up Tomorrow,73,3.9,Clean,2025-09-09,2025-01-31,R&B,2020
+21,5673WA8EEUSPx1ir26lhGW,Wake Me Up (feat. Justice),The Weeknd,Hurry Up Tomorrow,72,5.1,Clean,2025-09-09,2025-01-31,R&B,2020
+22,1NKjc6bRHutPoaVtYclFC3,Your Body,Marten Lou,Your Body,77,3.8,Clean,2025-09-08,2025-03-21,Electronic,2020
+23,1gT5TGwbkkkUliNzHRIGi1,4:44,JAY-Z,4:44,71,4.7,Explicit,2025-09-06,2017-07-07,Hip Hop,2010
+24,74fQgHleHZ4V7Gm1XYcGkj,One Night Only,Sonder,One Night Only,77,3.3,Clean,2025-09-06,2018-02-09,R&B,2010
+25,6pDt1F76BKy3ywWg4t8wee,Tiramisu,Don Toliver,Tiramisu,81,2.3,Explicit,2025-09-06,2025-09-05,Hip Hop,2020
+26,0QyJXG36Q3Kta662XS8GhY,Too Fast,Sonder,Into,74,4.9,Clean,2025-08-23,2017-01-27,R&B,2010
+27,0BYuy4jQEMJzyo6rySSQpC,Please Do Not Lean (feat. BADBADNOTGOOD) - Bonus,Daniel Caesar,NEVER ENOUGH (Bonus Version),69,4.0,Clean,2025-08-23,2023-04-10,R&B,2020
+28,25yl3A22f7gtJ5p5jfpuNn,OCT 33 - A COLORS SHOW,Black Pumas,OCT 33 - A COLORS SHOW,44,5.2,Clean,2025-07-24,2020-01-13,Soul,2020
+29,6IZvVAP7VPPnsGX6bvgkqg,PRIDE.,Kendrick Lamar,DAMN.,81,4.6,Explicit,2025-07-20,2017-04-14,Hip Hop,2010
+30,3zEN0ii6s4DHHBpnTp3RP7,We Are The People,Empire Of The Sun,Walking On A Dream (10th Anniversary Edition),85,4.5,Clean,2025-07-14,2008-10-03,Electronic,2000
+31,2SYfJeselsgIJ1yK0NgCto,PROVENZA - Sistek Remix,Sistek,PROVENZA (Sistek Remix),58,3.8,Clean,2025-07-11,2024-05-03,Electronic,2020
+32,06xCMWAVlvjlszuWhF4Ioq,Rock That Body - Lumarii Remix,nulled.,Rock That Body (Lumarii Remix),12,3.8,Clean,2025-07-10,2025-06-14,Other,2020
+33,2cKUMbHf6vmqoXerYhNeaZ,Be With You,EMOTIONAL,Skin,49,3.0,Clean,2025-07-04,2025-03-07,Electronic,2020
+34,0VdABGxYMKu8kh9aOw0X3e,Yamore - Edit Version,MoBlack,EDM Party 2025,42,2.5,Clean,2025-07-03,2025-01-24,Electronic,2020
+35,5nPbKG04fhLkIAjcPFaZq7,I Adore You (feat. Daecolm),HUGEL,I Adore You (feat. Daecolm),86,3.6,Clean,2025-07-03,2024-07-19,Latin,2020
+36,6d4FWjx72iuRWzn1HwywLK,Colors,Black Pumas,Black Pumas,68,4.1,Clean,2025-06-25,2019-06-21,Soul,2010
+37,4PjZsEf8bCIVyf4VXd57wS,Unholy War,Jacob Banks,The Boy Who Cried Freedom,53,3.5,Clean,2025-06-25,2017-04-20,Soul,2010
+38,0o2lMW2T77pq8utWLQ4b2U,How You Like Me Now? - Raffertie Remix,The Heavy,How You Like Me Now? (Raffertie Remix),50,3.8,Clean,2025-06-25,2012-08-06,Rock,2010
+39,3ri9fLG89OdSpjxheYxU7S,Me Muero,La Quinta Estacion,El Mundo Se Equivoca,75,3.2,Clean,2025-06-23,2006-08-15,Latin,2000
+40,6CvTEtGagmzQvkUzzyKR9k,HARLEY QUINN,Fuerza Regida,Pa las Baby's Y Belikeada,77,2.4,Explicit,2025-06-23,2023-10-20,Other,2020
+41,6xRWoYwfwIKnT8bQGzKbxR,God Is,Kanye West,JESUS IS KING,76,3.4,Clean,2025-06-11,2019-10-25,Hip Hop,2010
+42,2N3U8uTYhjX2KwGT0pf5x0,"Everyday (feat. Rod Stewart, Miguel & Mark Ronson)",A$AP Rocky,AT.LONG.LAST.A$AP,80,4.3,Explicit,2025-06-05,2015-05-26,Hip Hop,2010
+43,5lw8Mgb4LyhriPIC86gV6e,RNP (feat. Anderson .Paak),Cordae,The Lost Boy,67,2.9,Explicit,2025-06-05,2019-07-26,Hip Hop,2010
+44,1QoyuMHNBe7lg3YW4Qtll4,St. Chroma (feat. Daniel Caesar),"Tyler, The Creator",CHROMAKOPIA,77,3.3,Explicit,2025-06-02,2024-10-28,Hip Hop,2020
+45,4bEcoz1OcfMgUbp2ft8ieQ,911 / Mr. Lonely (feat. Frank Ocean & Steve Lacy),"Tyler, The Creator",Flower Boy,71,4.3,Explicit,2025-06-02,2017-07-21,Hip Hop,2010
+46,6OfOzTitafSnsaunQLuNFw,DOGTOOTH,"Tyler, The Creator",CALL ME IF YOU GET LOST: The Estate Sale,69,2.7,Explicit,2025-06-02,2023-03-31,Hip Hop,2020
+47,6rqj2zeKhLy3exkuFi6mSz,Answer,"Tyler, The Creator",Wolf,72,3.8,Explicit,2025-06-02,2013-04-01,Hip Hop,2010
+48,5B0kgjHULYJhAQkK5XsMoC,WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign),"Tyler, The Creator",CALL ME IF YOU GET LOST,72,2.0,Explicit,2025-06-02,2021-06-25,Hip Hop,2020
+49,1QOc7M6q10UilnJOGu3KFh,CRUZ,Trueno,EUB DELUXE,50,3.1,Explicit,2025-06-01,2025-05-22,Trap,2020
+50,73i89l9SLDKGQ58DtTPPxA,FRESH,Trueno,EUB DELUXE,56,2.4,Explicit,2025-06-01,2025-05-22,Trap,2020
+51,4QQlbr2kYTTy8nWMCd3Eqh,LAURYN,Trueno,EUB DELUXE,54,2.9,Explicit,2025-05-31,2025-05-22,Trap,2020
+52,290eKCMBc9f9CcSLFuQrim,Spend It,Summer Walker,Spend It,65,2.8,Clean,2025-05-26,2025-05-02,R&B,2020
+53,5Hg1m5uhSPL75ejQgPOmyc,Heaven Knows,54 Ultra,Heaven Knows,60,3.0,Clean,2025-05-26,2024-05-01,Soul,2020
+54,4nq6FkC0jH2fgfVSziGMmZ,NO SÉ QUIÉN SOS,LOUTA,NO SÉ QUIÉN SOS,47,3.1,Clean,2025-05-24,2025-05-15,Trap,2020
+55,0aPs3kmiqmt9QG7gWXdefA,No soy Eterno,Bizarrap,en dormir sin Madrid,74,2.5,Clean,2025-05-24,2023-10-04,Trap,2020
+56,7A6f6HJqsl5UdG7kBXzXSf,Heaven is a Home…,Kali Uchis,"Sincerely,",67,4.1,Clean,2025-05-20,2025-05-09,R&B,2020
+57,32SJM4tQyJHsB8rgVtZURn,WASSUP,Young Miko,WASSUP,79,2.7,Explicit,2025-05-19,2025-04-25,Trap,2020
+58,4vCAzANUWDE24URV6wQ4ra,Otra Noche en Miami,Bad Bunny,X 100PRE,76,3.9,Explicit,2025-05-19,2018-12-23,Reggaeton,2010
+59,7H7NyZ3G075GqPx2evsfeb,Chamber Of Reflection,Mac DeMarco,Salad Days,82,3.9,Clean,2025-05-16,2014-04-01,Alternative/Indie,2010
+60,7EAMXbLcL0qXmciM5SwMh2,Heart To Heart,Mac DeMarco,Here Comes The Cowboy,82,3.5,Clean,2025-05-15,2019-05-10,Alternative/Indie,2010
+61,44XjoNvtwevktFKjvVe1vH,Andrea,Bad Bunny,Un Verano Sin Ti,77,5.7,Explicit,2025-05-15,2022-05-06,Reggaeton,2020
+62,2pYCyEwJ0xKnWbuQkqNHgp,Love and Happiness,Al Green,Greatest Hits,52,5.1,Clean,2025-05-11,1975-05-29,Soul,1970
+63,4PEGwWH4tL6H7dGl4uVSPg,Like a Tattoo,Sade,Love Deluxe,79,3.6,Clean,2025-05-08,1992-10-26,R&B,1990
+64,7yNf9YjeO5JXUE3JEBgnYc,Babydoll,Dominic Fike,"Don't Forget About Me, Demos",80,1.6,Clean,2025-05-06,2018-10-16,Alternative/Indie,2010
+65,7IVukH71OXfAu3KudrrizN,Japanese Denim,Daniel Caesar,Get You - Single,79,4.5,Explicit,2025-05-04,2016-10-21,R&B,2010
+66,3kFo9yQT1AcBMUQjwExLd2,Greyhound Bus Blues,Liam St. John,Greyhound Bus Blues,40,2.5,Explicit,2025-04-29,2025-04-11,Other,2020
+67,76NtMPMpA6fuUH4euMYZoD,Buenos Genes,Rels B,Flakk Daniel's Lp,70,4.1,Explicit,2025-04-29,2018-04-06,Latin,2010
+68,4dASQiO1Eoo3RJvt74FtXB,"Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",Lil Wayne,Sucker for Pain (with Logic & Ty Dolla $ign feat. X Ambassadors),75,4.1,Explicit,2025-04-29,2016-06-24,Hip Hop,2010
+69,4pryE6cN2gFL1FVF5fYINl,Leave The Door Open,Bruno Mars,An Evening With Silk Sonic,69,4.0,Clean,2025-04-24,2021-11-12,Pop,2020
+70,6LV6Bl7QA8CMK8Ehu0BjNd,Working for the Weekend,Loverboy,Charlie's Angels: Full Throttle (Music From The Motion Picture),21,3.7,Clean,2025-04-22,2003-01-01,Rock,2000
+71,500h8jAdr7LvzzXlm1qxtK,Magic,Pilot,From The Album Of The Same Name,64,3.1,Clean,2025-04-22,1974-01-01,Rock,1970
+72,4WG7Z3bNM3iE4vCYcXsxNx,Cult of Personality (2023 Remaster),Living Colour,Vivid (2023 Remaster),67,4.9,Clean,2025-04-20,1988-05-02,Rock,1980
+73,6QewNVIDKdSl8Y3ycuHIei,Even Flow,Pearl Jam,Ten,79,4.9,Explicit,2025-04-20,1991-08-27,Other,1990
+74,28IEbk5a7twNTbUEvWslUb,Paralyzer,Finger Eleven,Them Vs. You Vs. Me (Deluxe Edition),78,3.5,Clean,2025-04-20,2007-01-01,Rock,2000
+75,0RTPZ8Yd44dsoR3uSkK9GT,Ruby Lee,Bill Withers,'Justments,52,3.3,Clean,2025-04-15,1974-08-08,Soul,1970
+76,1k1Bqnv2R0uJXQN4u6LKYt,Ain't No Sunshine,Bill Withers,Just As I Am,81,2.1,Clean,2025-04-13,1971-05-01,Soul,1970
+77,2jUcuBOT2eoBnoMBTM4L1i,"Hello Heaven, Hello",YUNGBLUD,"Hello Heaven, Hello",57,9.1,Clean,2025-04-09,2025-03-18,Alternative/Indie,2020
+78,2gTdDMpNxIRFSiu7HutMCg,I Think I'm OKAY (with YUNGBLUD & Travis Barker),mgk,Hotel Diablo,72,2.8,Explicit,2025-04-09,2019-07-05,Hip Hop,2010
+79,5v4OkFH0TJ6W1hCFxyn0px,parents,YUNGBLUD,weird!,70,2.9,Explicit,2025-04-09,2020-12-04,Alternative/Indie,2020
+80,3u5N55tHf7hXATSQrjBh2q,"Freed From Desire - prod. Molella, Phil Jay",Gala,Come Into My Life (The Album),78,3.6,Clean,2025-04-06,1997-11-17,Other,1990
+81,2phA5dZJrWqOBrOHFAgrjQ,BANSHEE,FloyyMenor,BANSHEE,64,3.1,Explicit,2025-03-27,2025-03-14,Reggaeton,2020
+82,2dHHgzDwk4BJdRwy9uXhTO,Creepin' (with The Weeknd & 21 Savage),Metro Boomin,HEROES & VILLAINS,81,3.7,Explicit,2025-03-26,2022-12-02,Hip Hop,2020
+83,1pacwLXyRO47ka0v6LTIiY,Raindrops (Insane) [with Travis Scott],Metro Boomin,HEROES & VILLAINS,71,3.1,Explicit,2025-03-26,2022-12-02,Hip Hop,2020
+84,4ZzxVQZcZWcLjfiOA3hRH8,CORA DE HIELO,RØZ,CORA DE HIELO,73,2.7,Clean,2025-03-24,2024-05-31,Other,2020
+85,4wH4dJgrsxONID6KS2tDQM,Maneater,Nelly Furtado,Loose,83,4.3,Clean,2025-03-22,2006-01-01,Pop,2000
+86,1r9xUipOqoNwggBpENDsvJ,Enemy (with JID) - from the series Arcane League of Legends,Imagine Dragons,Enemy (with JID) [from the series Arcane League of Legends],74,2.9,Clean,2025-03-22,2021-10-28,Alternative/Indie,2020
+87,1xsYj84j7hUDDnTTerGWlH,Dream On,Aerosmith,Aerosmith,82,4.5,Clean,2025-03-19,1973-01-05,Rock,1970
+88,6VnpKLtfNH4Dk09YSGPSyR,It Ain't Over 'Til It's Over,Lenny Kravitz,Mama Said,79,4.0,Clean,2025-03-19,1991-04-02,Rock,1990
+89,5YciOakY5dB5dULkiLdCaf,Stop Crying Your Heart Out,Oasis,Heathen Chemistry,77,5.1,Clean,2025-03-18,2002-02-03,Pop,2000
+90,5773KSWFzg9kCc8yazjbSt,Deceptacon,Le Tigre,Le Tigre,79,3.1,Explicit,2025-03-17,1999-10-26,Other,1990
+91,5L1CGAFIqqbjeBhI1MRgDa,1+1=2,B. Nasty,Easy2bnasty,30,3.9,Explicit,2025-03-16,2015-06-02,Hip Hop,2010
+92,4RnvS1tmh1ERhjXX6dxv95,Language,Paperboy Fabe,Language,74,2.5,Explicit,2025-03-15,2017-05-12,Hip Hop,2010
+93,35YyxFpE0ZTOoqFx5bADW8,Nude,Radiohead,In Rainbows,74,4.3,Clean,2025-03-14,2007-12-28,Rock,2000
+94,0zprG792oR31uWPCkYbCJZ,ALL NIGHT LONG,Mishaal Tamer,THE DEEP,51,3.6,Explicit,2025-03-09,2023-12-01,Pop,2020
+95,60jQTAr2OkFcV4SWSRz3st,Emotions,Brenda Lee,Emotions,62,2.9,Clean,2025-03-07,1961-04-03,Other,1960
+96,3SQ9Hb9rfpJ02AWfaOPhpy,"It's A Man's, Man's, Man's World",James Brown & The Famous Flames,It's A Man's Man's Man's World,67,2.8,Clean,2025-03-07,1966-08-01,Soul,1960
+97,1ZEOIhSn6BKErV59bIgn76,California Dreamin',The Mamas & The Papas,All The Leaves Are Brown The Golden Era Collection,73,2.7,Clean,2025-03-06,2001-08-28,Rock,2000
+98,6xE6ZWzK1YDDSYzqOCoQlz,Last Train to London,Electric Light Orchestra,Discovery,77,4.5,Clean,2025-03-06,1979-05-31,Rock,1970
+99,5AH31dDNgxCMGDdxubNNn4,NEL,Fuerza Regida,PERO NO TE ENAMORES,78,2.5,Explicit,2025-03-01,2024-07-25,Other,2020
+100,4Pwjz3DfvfQWV0rO2V8jyh,"Bitch, Don’t Kill My Vibe",Kendrick Lamar,"good kid, m.A.A.d city",70,5.2,Explicit,2025-02-26,2012-01-01,Hip Hop,2010
+101,3GcJCfVdwakBXr7UPrx2uA,Bang Bang,K'NAAN,Troubadour (Champion Edition - Español),52,3.1,Explicit,2025-02-22,2010-01-01,Hip Hop,2010
+102,1RMJOxR6GRPsBHL8qeC2ux,Best Part (feat. H.E.R.),Daniel Caesar,Freudian,19,3.5,Clean,2025-02-22,2017-08-25,R&B,2010
+103,5oady7OSE7dH7LHiqmb3Cr,"Dreams, Fairytales, Fantasies (feat. Brent Faiyaz & Salaam Remi)",A$AP Ferg,Floor Seats,77,3.7,Explicit,2025-02-22,2019-08-16,Hip Hop,2010
+104,7zFXmv6vqI4qOt4yGf3jYZ,Get You (feat. Kali Uchis),Daniel Caesar,Freudian,18,4.6,Clean,2025-02-22,2017-08-25,R&B,2010
+105,7DvlNrYFvmZieL8GdhJuoy,Start Over,Planet Giza,Don't Throw Rocks At The Moon,51,2.2,Clean,2025-02-22,2021-02-12,Hip Hop,2020
+106,0quwQM9YgpwBsNnCyZ8aaA,BUTTERFLIES,Isaiah Falls,LUCKY ME,55,2.7,Clean,2025-02-22,2024-10-11,R&B,2020
+107,6g6W3pMAFbp2FS1QCijkpM,Super Bowl LIX Halftime Show - Live,Kendrick Lamar,Super Bowl LIX Halftime Show (Live),58,13.3,Explicit,2025-02-19,2025-02-09,Hip Hop,2020
+108,0QIjsbm2fh1cJ45XO9eGqq,Wake Up in the Sky,Gucci Mane,Wake Up in the Sky,71,3.4,Explicit,2025-02-10,2018-09-14,Hip Hop,2010
+109,0JP8f1tkrBCghepMnLoTyb,Call,WizTheMc,Call,37,2.2,Clean,2025-02-10,2019-07-19,Hip Hop,2010
+110,2J6OF7CkpdQGSfm1wdclqn,Clouded,Brent Faiyaz,Fuck The World,75,1.8,Explicit,2025-02-10,2020-02-07,R&B,2020
+111,6AI3ezQ4o3HUoP6Dhudph3,Not Like Us,Kendrick Lamar,Not Like Us,87,4.6,Explicit,2025-02-10,2024-05-04,Hip Hop,2020
+112,2BHj31ufdEqVK5CkYDp9mA,Mayonaka no Door / Stay With Me,Miki Matsubara,Miki Matsubara Best Collection,76,5.2,Clean,2025-02-09,2008-01-01,Pop,2000
+113,5SkiVFWCP3NPEgNk3PaL2I,Nominao,C. Tangana,El Madrileño,55,2.9,Clean,2025-02-02,2021-02-26,Latin,2020
+114,4TDPlp7OSOjuDU3l7PCM04,Hurry Up Tomorrow,The Weeknd,Hurry Up Tomorrow,64,4.9,Clean,2025-02-01,2025-01-31,R&B,2020
+115,34HgIvucTKJvDgzHVMaGLG,I Think I Left the Stove On,Hotel Ugly,I Think I Left the Stove On,71,3.4,Clean,2025-01-29,2022-07-14,Pop,2020
+116,1Es7AUAhQvapIcoh3qMKDL,Timeless (feat. Playboi Carti),The Weeknd,Timeless,24,4.3,Explicit,2025-01-29,2024-09-27,R&B,2020
+117,2uvE4L5ZsYKpv8hbK4TIOt,MUTT,Leon Thomas,MUTT,81,3.2,Explicit,2025-01-29,2024-09-27,Other,2020
+118,30jui3PqevssdIVpjEWM38,Is there free breakfast here?,Hotel Ugly,Ugly Duck,65,2.2,Clean,2025-01-29,2023-03-24,Pop,2020
+119,5iwUwADk4uQUvgMF6PlTRl,Upset (feat. Tommy Richman & FELIX!),Brent Faiyaz,Larger Than Life,71,3.0,Explicit,2025-01-29,2023-10-27,R&B,2020
+120,1e3AdX6I8gaQKjQMONn9tA,Stoned,Mac Miller,Balloonerism,68,4.1,Clean,2025-01-29,2025-01-17,Hip Hop,2020
+121,3yw3m8wgRB4ptDyAvtdhq5,Tomorrow,"Tyler, The Creator",CHROMAKOPIA,65,3.0,Explicit,2025-01-23,2024-10-28,Hip Hop,2020
+122,6jbYpRPTEFl1HFKHk1IC0m,Like Him (feat. Lola Young),"Tyler, The Creator",CHROMAKOPIA,86,4.6,Explicit,2025-01-23,2024-10-28,Hip Hop,2020
+123,63EQbNhgaih4yg5412usWG,Loco,Neton Vega,Loco,76,3.1,Clean,2025-01-18,2024-12-20,Other,2020
+124,4lriIG2vNqwDWzOj2I9rtj,Ma Meilleure Ennemie (from the series Arcane League of Legends),Stromae,Ma Meilleure Ennemie (from the series Arcane League of Legends),75,2.5,Clean,2025-01-13,2024-11-23,Pop,2020
+125,7KA4W4McWYRpgf0fWsJZWB,See You Again (feat. Kali Uchis),"Tyler, The Creator",Flower Boy,89,3.0,Explicit,2025-01-06,2017-07-21,Hip Hop,2010
+126,4riDfclV7kPDT9D58FpmHd,Some,Steve Lacy,Some,74,2.0,Explicit,2025-01-06,2016-10-31,R&B,2010
+127,44RtUuibFLTuVJ2ayS0TxM,Conversations - Ismatricule Remix,Ismatricule,Conversations,1,3.2,Clean,2025-01-06,2024-07-12,Other,2020
+128,1otG6j1WHNvl9WgXLWkHTo,"After The Storm (feat. Tyler, The Creator & Bootsy Collins)",Kali Uchis,Isolation,81,3.5,Clean,2025-01-06,2018-04-06,R&B,2010
+129,5pxtj7cCnv2hZe6mbS2MBx,Lovin' Feeling,French 79,Olympic,24,3.4,Clean,2025-01-06,2016-10-21,Electronic,2010
+130,3t9AQbyfGnVbe3xuTg9PEX,La femme à la peau bleue,Vendredi sur Mer,Premiers émois,57,3.4,Clean,2025-01-06,2019-03-22,Pop,2010
+131,6tDDoYIxWvMLTdKpjFkc1B,telepatía,Kali Uchis,Sin Miedo (del Amor y Otros Demonios) ∞,82,2.7,Clean,2025-01-06,2020-12-04,R&B,2020
+132,3B4Tg5s5rFto30sakmNZPt,Chaleur épique sous les tropiques,AGAV,Chaleur épique sous les tropiques,21,2.8,Clean,2025-01-06,2017-01-01,Pop,2010
+133,6G0KITyDe4EQREYyuVQmOn,Nothing Burns Like The Cold,Snoh Aalegra,FEELS,66,3.5,Clean,2025-01-06,2017-10-20,R&B,2010
+134,1zyUz3eZ3sytdaR9lfW17q,Écoute Chérie,Vendredi sur Mer,Premiers émois,69,3.7,Clean,2025-01-03,2019-03-22,Pop,2010
+135,2YAQa5dl4GWo0GuVliWvdR,Candy,Plan B,Candy,68,3.5,Clean,2025-01-03,2013-09-14,Reggaeton,2010
+136,0YJ9FWWHn9EfnN0lHwbzvV,Jigsaw Falling Into Place,Radiohead,In Rainbows,78,4.1,Clean,2025-01-01,2007-12-28,Rock,2000
+137,4qbi9JDziBh3cxi9SFUbeu,"Baila Morena (with Luny Tunes, Noriega) - Remix",Hector & Tito,Baila Morena (Reggaeton Mix),69,3.1,Clean,2024-12-31,2005-07-10,Reggaeton,2000
+138,3qrTll9OQ9wcejTxPFY0qg,The Line (from the series Arcane League of Legends),Twenty One Pilots,The Line (from the series Arcane League of Legends),68,3.2,Clean,2024-12-28,2024-11-22,Alternative/Indie,2020
+139,4ieCIMiyu4llRFadnSrElh,Brown Sugga,BODHI,Brown Sugga,0,2.4,Clean,2024-12-22,2023-06-02,Electronic,2020
+140,0XkGuccSfq43beHberZYKz,Happy Birthday,Tempo,Happy Birthday,73,2.6,Clean,2024-12-18,2021-12-09,Hip Hop,2020
+141,2plbrEY59IikOBgBGLjaoe,Die With A Smile,Lady Gaga,Die With A Smile,92,4.2,Clean,2024-12-15,2024-08-16,Pop,2020
+142,4C426PqeHP8XqHU5mQIAKS,Just the Two of Us,"Grover Washington, Jr.",In the Name of Love: The Elektra Recordings 1979-1984,61,4.0,Clean,2024-12-14,2022-01-14,Soul,2020
+143,4RvWPyQ5RL0ao9LPZeSouE,Everybody Wants To Rule The World,Tears For Fears,Songs From The Big Chair (Super Deluxe Edition),86,4.2,Clean,2024-12-14,1985-02-25,Other,1980
+144,41sGGCCoHI2GLV9qadX80A,Baby Come Back,Player,Player,77,4.3,Clean,2024-12-14,1977-09-01,Rock,1970
+145,7oOOI85fVQvVnK5ynNMdW7,Rock with You - Single Version,Michael Jackson,Off the Wall,80,3.7,Clean,2024-12-14,1979-08-10,Pop,1970
+146,1Hv1VTm8zeOeybub15mA2R,Smooth Operator - Single Version,Sade,The Best of Sade,80,4.3,Clean,2024-12-14,1994-10-31,R&B,1990
+147,7j74lucZ59vqN67Ipe2ZcY,Maneater,Daryl Hall & John Oates,H2O,82,4.6,Clean,2024-12-14,1982-10-04,Rock,1980
+148,1kqH58eGh2ZTOHwqBIB2tM,Una Foto Remix (feat. Emilia),Mesita,Una Foto Remix (feat. Emilia),70,4.1,Explicit,2024-12-14,2024-01-05,Other,2020
+149,0ffPRT5WW86ecgGWGf5CyY,LOS DÍAS CONTADOS,Quevedo,BUENAS NOCHES,66,2.7,Clean,2024-12-13,2024-11-22,Latin,2020
+150,6i759FCuKx713ZnYjtpQGU,True Colors,The Weeknd,Starboy,58,3.4,Clean,2024-12-09,2016-11-24,R&B,2010
+151,5y0YR8iWYEvqXkqVkJN2KG,Blood's Thicker Than Water,Bobby Bazini,Summer Is Gone (Deluxe),47,3.7,Clean,2024-12-06,2016-11-11,Other,2010
+152,47MRrxHHrXq4qThZPOBABa,When I Go,Keaton Simons,When I Go,52,3.4,Clean,2024-12-06,2015-08-29,Pop,2010
+153,7sD1gjr6feM1jJETMYd9Gs,VEINTI,Nicki Nicole,NAIKI,48,2.5,Explicit,2024-11-30,2024-11-21,Trap,2020
+154,67Wqby5IjOMMpIYwqmCYOG,intoxicao,Emilia,Tú crees en mí?,61,2.8,Clean,2024-11-30,2022-05-31,Trap,2020
+155,3WrwSAIs1jAZml3iRD6zDP,SHEITE,Nicki Nicole,NAIKI,50,2.2,Clean,2024-11-30,2024-11-21,Trap,2020
+156,4TGwERXRlyQtBdggYTHo6j,Entre Nosotros (Remix) [con Nicki Nicole],Tiago PZK,Entre Nosotros (Remix) [con Nicki Nicole],71,4.3,Clean,2024-11-30,2022-01-05,Trap,2020
+157,1bh78E6P230qD5OLLNnAqq,Otra Noche,Los Ángeles Azules,Cumbia del Corazón,68,3.3,Clean,2024-11-30,2022-12-01,Latin,2020
+158,4kELKaXaNP4EQR8Q8xNIID,FEEL ME??,Trueno,FEEL ME??,62,3.1,Explicit,2024-11-26,2021-09-09,Trap,2020
+159,5XOz9c4Enw0fzyIFZRHds8,TRANKY FUNKY,Trueno,EL ÚLTIMO BAILE,65,2.6,Explicit,2024-11-23,2024-05-23,Trap,2020
+160,1pymWRCuZfCd0zdiBJo0Hj,REAL GANGSTA LOVE,Trueno,EL ÚLTIMO BAILE,76,2.4,Explicit,2024-11-23,2024-05-23,Trap,2020
+161,5wG3HvLhF6Y5KTGlK0IW3J,Trance (with Travis Scott & Young Thug),Metro Boomin,HEROES & VILLAINS,81,3.2,Explicit,2024-11-22,2022-12-02,Hip Hop,2020
+162,1GnTBbaFtxNkHEjUsWEdNu,cross my heart,Artemas,pretty,66,2.4,Clean,2024-11-22,2024-02-09,Pop,2020
+163,31zNgkbLt8McmjDrh6XKY9,Midnight's Interlude,Tory Lanez,Alone At Prom,58,1.9,Clean,2024-11-22,2021-12-10,R&B,2020
+164,1rKdNSA119ByMxI9chV5J6,too far close,Chase Shakur,It'll Be Fine,56,3.0,Explicit,2024-11-22,2022-06-24,R&B,2020
+165,0ZHLqpysyyJil6TlEJAZY9,Y.D.L.R.,Tory Lanez,PLAYBOY,67,2.4,Explicit,2024-11-22,2021-03-05,R&B,2020
+166,4qZLrKsaGkYmVRGUviVPtk,Inwood Hill Park,6LACK,Since I Have A Lover,60,3.2,Explicit,2024-11-22,2023-03-24,R&B,2020
+167,5uKHTLXNcftXtYfU7j9cQ6,I LIKE,Tory Lanez,I LIKE,68,2.2,Explicit,2024-11-22,2022-04-22,R&B,2020
+168,3E8xyYdIPpiH2wNEozE68I,Pégate,Standly,Pégate,66,3.1,Clean,2024-11-15,2022-01-03,Reggaeton,2020
+169,2my7K20Fv5OtE27cjG9sfu,BUENOS AIRES,NATHY PELUSO,Calambre,62,4.0,Clean,2024-11-08,2020-10-02,Hip Hop,2020
+170,6PhRhocBXP4y7NpciGmzra,Después De La 1,Cris MJ,MJ,77,3.0,Explicit,2024-10-31,2024-09-12,Reggaeton,2020
+171,4ATldz2t0zMGWtFK3uqDL4,D4U - Spotify Singles,Avenoir,D4U - Spotify Singles,60,2.7,Clean,2024-10-28,2022-10-19,R&B,2020
+172,2JqkpMe2eJToJNHEqkJeCu,Forever Yours,Brent Faiyaz,Larger Than Life,73,1.6,Explicit,2024-10-28,2023-10-27,R&B,2020
+173,1TMWjPjpQGU9t4PfLQ0qJS,"sentado aquí,",LATIN MAFIA,TODOS LOS DÍAS TODO EL DÍA,63,2.7,Explicit,2024-10-25,2024-10-24,R&B,2020
+174,0bkoZwmhCxyM3OmwnV2gUX,Me estoy cayendo,LATIN MAFIA,TODOS LOS DÍAS TODO EL DÍA,60,2.9,Clean,2024-10-25,2024-10-24,R&B,2020
+175,0ReoK9isNvJmI7nV2iJcNR,Paper Soldier (feat. Joony),Brent Faiyaz,Paper Soldier (feat. Joony),72,3.4,Explicit,2024-10-23,2021-02-08,R&B,2020
+176,7fGODUqa0gtkb72oBVCgCD,Ella Me Levanto,Daddy Yankee,El Cartel: The Big Boss,8,3.5,Clean,2024-10-17,2007-06-05,Reggaeton,2000
+177,26QKsGW4hMuwiEE1ftUMHe,"Lo Que Pasó, Pasó",Daddy Yankee,Barrio Fino (Bonus Track Version),10,3.5,Clean,2024-10-17,2004-07-13,Reggaeton,2000
+178,1dw7qShk971xMD6r6mA4VN,PERO TÚ,KAROL G,MAÑANA SERÁ BONITO,74,3.1,Explicit,2024-10-12,2023-02-24,Reggaeton,2020
+179,6WatFBLVB0x077xWeoVc2k,Si Antes Te Hubiera Conocido,KAROL G,Si Antes Te Hubiera Conocido,85,3.3,Clean,2024-10-06,2024-06-21,Reggaeton,2020
+180,5wWxUdgn2OugIOvLJOdreH,Lo Que Construimos,Natalia Lafourcade,Hasta la Raíz (Edición Especial),70,4.7,Clean,2024-09-24,2015-11-13,Latin,2010
+181,1OzDyg6a1lsukiBwArG7zI,Para Empezar,Leonel García,Tú,59,4.3,Clean,2024-09-24,2011-01-25,Latin,2010
+182,61paDgouceUmuVTsoUO5TD,Déjenme Llorar,Carla Morrison,Déjenme Llorar,0,3.9,Clean,2024-09-24,2012-03-27,Latin,2010
+183,6aommJFM8i3iT4inKuDSXh,Chachachá,Jósean Log,Háblate de Mí,77,3.6,Clean,2024-09-24,2016-10-14,Alternative/Indie,2010
+184,4BjBOHYl0ySaVyfGMrAnWc,Alas Rotas,Deyco,Alas Rotas,8,2.3,Clean,2024-09-23,2022-07-28,Latin,2020
+185,5fohLPNqO6TqwrZ7BoUWUT,High For This,The Weeknd,Trilogy,66,4.1,Clean,2024-09-21,2012-11-13,R&B,2010
+186,5PCGEfALcpGtURIuTqvX0R,PELIGROSA,FloyyMenor,PELIGROSA,77,2.2,Explicit,2024-09-07,2024-07-12,Reggaeton,2020
+187,21cBIFpuYb5IEOm1BltCk3,B de Bellako - Remix,El Malilla,B de Bellako (Remix),54,3.3,Explicit,2024-09-06,2024-05-16,Reggaeton,2020
+188,66TTutUCqCpAzGCBcsBuYy,Waiting In Vain - Bob Marley: One Love - Music Inspired By The Film,Daniel Caesar,Waiting In Vain (Bob Marley: One Love - Music Inspired By The Film),56,5.0,Clean,2024-08-23,2024-02-02,R&B,2020
+189,3zYpRGnnoegSpt3SguSo3W,Off the Wall,Michael Jackson,Off the Wall,71,4.1,Clean,2024-08-23,1979-08-10,Pop,1970
+190,0RoV9OBxlqxkzFEv6LAm84,French Toast (feat. Wale & Joyce Wrice),Westside Gunn,Pray for Paris,47,4.8,Explicit,2024-08-22,2020-04-17,Other,2020
+191,6rbhaJsE4uLzpPf8WYSHDK,Asesina,Brytiago,Asesina,0,3.1,Clean,2024-08-13,2018-05-11,Trap,2010
+192,1U0Iv0dVkdRhqXg1LJlusm,¿Qué Vas a Hacer?,Ricardo Montaner,¿Qué Vas a Hacer?,0,3.8,Clean,2024-08-01,2018-11-30,Latin,2010
+193,2BEcap3xJtmiPaHKyfQi4e,Nostálgico,Rvssian,Nostálgico,71,3.5,Explicit,2024-07-22,2021-09-08,Trap,2020
+194,5FYHVGP9TINgbfLvzMhnVl,Gimme A Second 2,Rich The Kid,Gimme A Second 2,47,2.9,Explicit,2024-06-26,2024-06-21,Trap,2020
+195,6VciS3dRMpZhJiDxT8ArFi,"Young Miko: Bzrp Music Sessions, Vol. 58",Bizarrap,"Young Miko: Bzrp Music Sessions, Vol. 58",70,3.1,Clean,2024-06-16,2024-01-10,Trap,2020
+196,1KdwnsWOvhM53vezy5ROuf,No Te Debí Besar,C. Tangana,No Te Debí Besar,64,3.0,Clean,2024-06-16,2019-09-12,Latin,2010
+197,74MzeHaV3Rcgdkhawz0Lne,Oliveira Dos Cen Anos,C. Tangana,Oliveira Dos Cen Anos,48,3.3,Clean,2024-06-16,2023-07-07,Latin,2020
+198,4TUu0QxrNe0Mz6RMVoMda1,1000CANCIONES,Alvaro Diaz,SAYONARA,67,4.1,Clean,2024-06-15,2024-05-17,Latin,2020
+199,6ll92Lsn8FWW5cMSJtjHB1,Playa y Weed,MAGNA,Playa y Weed,0,3.1,Clean,2024-06-14,2020-03-27,R&B,2020
+200,3cqhuqp6N9D3XoAsL0kCC4,PALOMINO,MAGNA,PALOMINO,22,2.4,Clean,2024-06-14,2024-02-23,R&B,2020
+201,6XjsXIb1DUhsmhflFAODv3,DIAMONDS,Mora,ESTRELLA,65,3.2,Explicit,2024-06-08,2023-08-28,Latin,2020
+202,4CQW7jSDYk3kRfv7708NGF,EL CHACAL,Mora,ESTRELLA,57,3.3,Explicit,2024-06-08,2023-08-28,Latin,2020
+203,0JLKzgJT62z3jNWsDt6znJ,LAGUNA,Mora,ESTRELLA,58,4.1,Explicit,2024-06-08,2023-08-28,Latin,2020
+204,0QRHOAeU8JRaVVn3UoZBih,REINA,Mora,ESTRELLA,69,3.5,Explicit,2024-06-07,2023-08-28,Latin,2020
+205,4TFNKnMWjcMWzpkSwQrrcu,Le Pido a DIOS,Feid,SIXDO,70,2.8,Explicit,2024-06-02,2022-12-02,Reggaeton,2020
+206,66EqOhWfTcdVphw00lcxZO,Shabadabada,OV7,Punto,62,3.9,Clean,2024-05-28,1997-01-01,Latin,1990
+207,5bi0gh89wRuH2OgjdAKFsb,Santa,Rvssian,Santa,74,3.2,Clean,2024-05-23,2024-04-04,Trap,2020
+208,3T07pNAEVr9adeIG9i1ex4,Color Esperanza,Diego Torres,Un Mundo Diferente,66,4.5,Clean,2024-05-15,2001-10-31,Latin,2000
+209,5oYVxFt2k4SkVp6wzVsFWN,"Ride Or Die, Pt. 2 (with Villano Antillano & Tokischa)",Sevdaliza,"Ride Or Die, Pt. 2",81,2.6,Explicit,2024-04-22,2024-04-18,Alternative/Indie,2020
+210,1k3Ua77F9j4vwyAxuE1jWP,WWE: Broken Dreams (Drew McIntyre) [feat. Shaman's Harvest],WWE,WWE: Broken Dreams (Drew McIntyre) [feat. Shaman's Harvest],49,4.5,Clean,2024-04-22,2010-11-30,Other,2010
+211,2oA3tCnnhyMaCVzS5MLZZY,Mamá,Los Amantes De Lola,Rock En Espanol - Lo Mejor De Los Amantes De Lola,54,3.8,Clean,2024-04-15,2001-06-07,Rock,2000
+212,0wQCKR9OFjYu5Kzrk7WivJ,Corazón partío,Alejandro Sanz,Más,79,5.7,Clean,2024-04-01,1997-01-01,Latin,1990
+213,2Y0iGXY6m6immVb2ktbseM,Little Dark Age,MGMT,Little Dark Age,78,5.0,Clean,2024-03-03,2018-02-09,Alternative/Indie,2010
+214,3U5JVgI2x4rDyHGObzJfNf,Unwritten,Natasha Bedingfield,Unwritten,86,4.3,Clean,2024-02-25,2004-08-30,Pop,2000
+215,4XI8zeiBGduh5rABkvBn5Y,X-Rated (feat. Benny The Butcher),Leon Thomas,Electric Dusk,44,3.9,Explicit,2024-02-11,2023-08-18,Other,2020
+216,7DPUuTaTZCtQ6o4Xx00qzT,BEG FORGIVENESS,Kanye West,VULTURES 1,1,6.1,Explicit,2024-02-11,2024-02-09,Hip Hop,2020
+217,4YSa8VQxjzsski1DOsvkHH,DO IT,Kanye West,VULTURES 1,1,3.8,Explicit,2024-02-11,2024-02-09,Hip Hop,2020
+218,7yNK27ZTpHew0c55VvIJgm,Dark Fantasy,Kanye West,My Beautiful Dark Twisted Fantasy,68,4.7,Explicit,2024-02-08,2010-11-22,Hip Hop,2010
+219,30ZU6I1YJdY9nEVMrqziie,Death of Me,WizTheMc,Death of Me,46,2.6,Clean,2024-01-28,2023-10-13,Hip Hop,2020
+220,1CrPPsibP3uTc3DSI5vQC5,fue mejor (feat. SZA),Kali Uchis,fue mejor (feat. SZA),58,3.8,Explicit,2024-01-27,2021-09-29,R&B,2020
+221,5LffvExhQQFcfwqkGNpFpM,Jealous Guy,The Weeknd,The Idol Episode 4 (Music from the HBO Original Series),53,3.5,Clean,2024-01-27,2023-06-23,R&B,2020
+222,7CyPwkp0oE8Ro9Dd5CUDjW,"One Of The Girls (with JENNIE, Lily Rose Depp)",The Weeknd,The Idol Episode 4 (Music from the HBO Original Series),91,4.1,Clean,2024-01-26,2023-06-23,R&B,2020
+223,2ncLdwTd8qzkxiJjlbiOgC,Mr. Rager,Kid Cudi,Man On The Moon II: The Legend Of Mr. Rager,71,4.9,Clean,2024-01-26,2010-01-01,Hip Hop,2010
+224,0OEe83mMZ5kaNw5uZQ7ilG,DELRESTO (ECHOES) (feat. Beyoncé),Travis Scott,UTOPIA,59,4.6,Clean,2024-01-25,2023-07-28,Hip Hop,2020
+225,0U0ldCRmgCqhVvD6ksG63j,Nightcall,Kavinsky,Nightcall,74,4.3,Clean,2024-01-20,2010-01-01,Other,2010
+226,4cQrSREMqBSvJ8ZzBZjVb8,Mile High (feat. Travis Scott & Metro Boomin),James Blake,Assume Form,63,3.2,Clean,2024-01-19,2019-01-18,Electronic,2010
+227,7eqoqGkKwgOaWNNHx90uEZ,Nights,Frank Ocean,Blonde,79,5.1,Explicit,2024-01-19,2016-08-20,R&B,2010
+228,5fEB6ZmVkg63GZg9qO86jh,Break from Toronto,PARTYNEXTDOOR,PARTYNEXTDOOR,82,1.7,Explicit,2024-01-19,2013-07-01,R&B,2010
+229,3s7MCdXyWmwjdcWh7GWXas,Violent Crimes,Kanye West,ye,80,3.6,Explicit,2024-01-11,2018-06-01,Hip Hop,2010
+230,4xhsWYTOGcal8zt0J161CU,Lovin On Me,Jack Harlow,Lovin On Me,78,2.3,Explicit,2024-01-06,2023-11-10,Hip Hop,2020
+231,4AFsRbaLKRWo3dDtjDFA2V,Me and Your Mama,Childish Gambino,"""Awaken, My Love!""",6,6.3,Clean,2023-12-27,2016-12-02,R&B,2010
+232,0WtDGnWL2KrMCk0mI1Gpwz,Redbone,Childish Gambino,"""Awaken, My Love!""",9,5.4,Explicit,2023-12-27,2016-12-02,R&B,2010
+233,6eSlDHA3XYLha1e0z8I9DO,mañana,Tainy,DATA,0,2.9,Explicit,2023-12-26,2023-06-29,Reggaeton,2020
+234,0oufSLnKQDoBFX5mgkDCgR,Trust,Brent Faiyaz,Lost,74,2.6,Explicit,2023-12-21,2018-10-19,R&B,2010
+235,1wGpEisE7VmhhSazD8hZ5l,ROLE MODEL,Brent Faiyaz,WASTELAND,71,3.2,Explicit,2023-12-16,2022-07-08,R&B,2020
+236,6tg97bZpaIpDSEcWMGXfOT,COLMILLO,Tainy,COLMILLO,56,4.4,Explicit,2023-12-06,2023-10-11,Reggaeton,2020
+237,58iuuMeVzgGhCwhnx3zBAP,Gotta Be Me,Brady,Teen Beach 2 (Original TV Movie Soundtrack),55,3.9,Clean,2023-12-02,2015-01-01,Other,2010
+238,3HMuJG1y7pyjg7Rrk17Rsb,Algo contigo,Rita Payés,Imagina,13,5.0,Clean,2023-11-21,2019-05-17,Other,2010
+239,0N3W5peJUQtI4eyR6GJT5O,King Kunta,Kendrick Lamar,To Pimp A Butterfly,73,3.9,Explicit,2023-11-10,2015-03-16,Hip Hop,2010
+240,2HbKqm4o0w5wEeEFXm2sD4,Money Trees,Kendrick Lamar,"good kid, m.A.A.d city",78,6.4,Explicit,2023-11-10,2012-01-01,Hip Hop,2010
+241,6HZILIRieu8S0iqY8kIKhj,DNA.,Kendrick Lamar,DAMN.,78,3.1,Explicit,2023-11-10,2017-04-14,Hip Hop,2010
+242,5nkUIVKqOqdpB6ApKgEMkv,Stay Ready (What A Life),Jhené Aiko,Sail Out,75,6.4,Explicit,2023-11-10,2013-01-01,R&B,2010
+243,2g6tReTlM2Akp41g0HaeXN,Die Hard,Kendrick Lamar,Mr. Morale & The Big Steppers,75,4.0,Explicit,2023-11-10,2022-05-13,Hip Hop,2020
+244,6SwRhMLwNqEi6alNPVG00n,LOYALTY. FEAT. RIHANNA.,Kendrick Lamar,DAMN.,75,3.8,Explicit,2023-11-10,2017-04-14,Hip Hop,2010
+245,4mWiyglEmK9eRAwMdD9tQ6,Mi Kryptonita,Doble ONE Flow Letal,Talento De Vida,0,3.1,Clean,2023-11-10,2023-10-11,Hip Hop,2020
+246,4h90qkbnW1Qq6pBhoPvwko,Sidewalks,The Weeknd,Starboy,70,3.9,Explicit,2023-11-05,2016-11-25,R&B,2010
+247,1kwnxJNVl7cwcU98RvMBaR,Surf,Mac Miller,Circles,66,5.5,Clean,2023-11-03,2020-01-17,Hip Hop,2020
+248,06EL94D0TA27Ik0Ke5usbj,The Way,Ariana Grande,Yours Truly,71,3.8,Clean,2023-11-03,2013-01-01,Pop,2010
+249,3Qa944OTMZkg8DHjET8JQv,Woods,Mac Miller,Circles,70,4.8,Clean,2023-11-03,2020-01-17,Hip Hop,2020
+250,7klPHv3HnXdUY3dSfTccNc,Time,Free Nationals,Free Nationals,64,3.5,Explicit,2023-11-03,2019-12-13,R&B,2010
+251,1i9lZvlaDdWDPyXEE95aiq,TELEKINESIS (feat. SZA & Future),Travis Scott,UTOPIA,76,5.9,Explicit,2023-11-03,2023-07-28,Hip Hop,2020
+252,4iZ4pt7kvcaH6Yo8UoZ4s2,Snooze,SZA,SOS,85,3.4,Explicit,2023-11-03,2022-12-09,R&B,2020
+253,7wdzLe2Gsx1RGqbvYZHASz,i,Kendrick Lamar,i,68,3.9,Explicit,2023-11-03,2014-09-23,Hip Hop,2010
+254,4brX8MJs5hxErgq48f9REO,Stay,Mac Miller,The Divine Feminine,62,5.4,Explicit,2023-10-26,2016-09-16,Hip Hop,2010
+255,6hzbRKhJHo6cfCHSnNaDS8,"God Is Fair, Sexy Nasty (feat. Kendrick Lamar)",Mac Miller,The Divine Feminine,63,8.3,Explicit,2023-10-26,2016-09-16,Hip Hop,2010
+256,66wkCYWlXzSTQAfnsPBptt,My Favorite Part,Mac Miller,The Divine Feminine,71,3.6,Clean,2023-10-26,2016-09-16,Hip Hop,2010
+257,6ReKt5x6FVUXTMdWNC6GAQ,Lotus Eater,Foster The People,Sacred Hearts Club,54,3.0,Clean,2023-10-25,2017-07-21,Alternative/Indie,2010
+258,7b8aKAUn1BB2k1clevj4aB,Yeah - bonus,Mac Miller,Faces,55,5.1,Explicit,2023-10-22,2021-10-15,Hip Hop,2020
+259,3MMkSXvuwkdwAbWCIony3N,Cuidado,SAG,Cuidado,23,2.5,Clean,2023-10-22,2023-01-27,Other,2020
+260,0iLN9FL8qQNsd13N5TVPAX,Santo Domingo,The Change,Santo Domingo,30,2.6,Clean,2023-10-07,2022-12-02,Rock,2020
+261,3LfHBTYZBTqmz43tvVXJBd,Deep,Summer Walker,Last Day Of Summer,69,1.5,Explicit,2023-10-05,2018-10-19,R&B,2010
+262,4hGmQboiou09EwhcTWa0H6,Another One Of Me (feat. 21 Savage),Diddy,The Love Album: Off The Grid,52,3.7,Explicit,2023-10-05,2023-09-15,Hip Hop,2020
+263,3cCxoOgfi6hgt8MNteuiiD,Fade,Kanye West,The Life Of Pablo,62,3.2,Explicit,2023-10-04,2016-06-10,Hip Hop,2010
+264,2TJKY0WSFufZOzbRNgl6zE,ELOVRGA,Alex Favela,ELOVRGA,73,3.2,Explicit,2023-10-02,2023-08-18,Other,2020
+265,7Hl6f42xRpbp6IldMu977q,Montañita,Carlos Corté$,Pack Verano 001,17,2.9,Explicit,2023-09-24,2021-05-04,Hip Hop,2020
+266,32u1f3KGImI15xe4B1eGuu,Ciudad de las Luces,LATIN MAFIA,Ciudad de las Luces,17,3.2,Clean,2023-08-28,2021-05-14,R&B,2020
+267,4hSnduLsZ7sDBxaBzxkNFT,Mala buena suerte,LATIN MAFIA,Mala buena suerte,0,2.8,Clean,2023-08-28,2022-03-11,R&B,2020
+268,2XPoBFJvcYSoh2xPdj1Z92,Continuo Atardecer,LATIN MAFIA,Continuo Atardecer,0,2.8,Clean,2023-08-28,2022-07-08,R&B,2020
+269,3hHb8Mw9HvlcFUBlSELElq,Sal rosa,LATIN MAFIA,Sal rosa,1,4.4,Clean,2023-08-28,2022-09-16,R&B,2020
+270,2be65tlZxFZa0ConcgoUqu,Perlas,LATIN MAFIA,Perlas,0,2.8,Explicit,2023-08-28,2022-11-04,R&B,2020
+271,1AZbs0L3SkXe625DKp37KQ,Julietota,LATIN MAFIA,Julietota,70,3.5,Clean,2023-08-28,2023-08-25,R&B,2020
+272,4A5ikwMNsH1LujHkVzo693,Más humano,LATIN MAFIA,Más humano,0,3.1,Clean,2023-08-28,2021-08-14,R&B,2020
+273,7oEkDWQeUlsu3UBfltE1WI,FLORES,LATIN MAFIA,FLORES,1,2.7,Clean,2023-08-28,2023-01-27,R&B,2020
+274,4eYhZcJRzRZLGFp7EupTEE,Se fue la luz,LATIN MAFIA,Se fue la luz,1,3.5,Clean,2023-08-28,2023-05-26,R&B,2020
+275,24lqVtYdnA1NhYd37XFOPb,No digas nada,LATIN MAFIA,No digas nada,1,3.7,Clean,2023-08-28,2023-04-14,R&B,2020
+276,1QgY3dbddC41h8cBm9lxKd,Julieta,LATIN MAFIA,Julieta,2,3.5,Clean,2023-08-28,2021-12-24,R&B,2020
+277,0Sgk9iiFGgjVxJfXv2L3iF,LED,OmenXIII,Corrupted,57,2.2,Explicit,2023-08-27,2017-12-28,Trap,2010
+278,4mmkhcEm1Ljy1U9nwtsxUo,Through The Wire,Kanye West,The College Dropout,74,3.7,Explicit,2023-08-15,2004-02-10,Hip Hop,2000
+279,722tgOgdIbNe3BEyLnejw4,Black Skinhead,Kanye West,Yeezus,71,3.1,Explicit,2023-08-15,2013-06-18,Hip Hop,2010
+280,6vegnfDS8DAEaCqWaPYGPy,Otis,JAY-Z,Watch The Throne (Deluxe),4,3.0,Explicit,2023-08-14,2011-08-08,Hip Hop,2010
+281,2K7xn816oNHJZ0aVqdQsha,Softcore,The Neighbourhood,Hard To Imagine The Neighbourhood Ever Changing,84,3.4,Clean,2023-08-04,2018-11-02,Alternative/Indie,2010
+282,7nzsY8vlnKdvGOEE0rjAXZ,Arabella,Arctic Monkeys,AM,75,3.5,Clean,2023-08-04,2013-09-09,Alternative/Indie,2010
+283,7fBv7CLKzipRk6EC6TWHOB,The Hills,The Weeknd,Beauty Behind The Madness,86,4.0,Explicit,2023-08-04,2015-08-28,R&B,2010
+284,0Sjz8pTu8vcVvGP5rtyh3Q,Tonight You Are Mine,The Technicolors,Ultraviolet Disguise (Deluxe Edition),61,3.8,Clean,2023-08-04,2015-10-16,Rock,2010
+285,4XfI7M5gLwEY84gYiH4RDD,Devil's Advocate,The Neighbourhood,Chip Chrome & The Mono-Tones,65,3.1,Clean,2023-08-04,2020-09-25,Alternative/Indie,2020
+286,6Hfu9sc7jvv6coyy2LlzBF,Hurricane,Kanye West,Donda,66,4.1,Clean,2023-08-03,2021-08-29,Hip Hop,2020
+287,5TRPicyLGbAF2LGBFbHGvO,Flashing Lights,Kanye West,Graduation,84,4.0,Explicit,2023-08-03,2007-09-11,Hip Hop,2000
+288,2x8oBuYaObjqHqgGuIUZ0b,ARRANCÁRMELO,WOS,ARRANCÁRMELO,65,3.1,Clean,2023-08-01,2022-04-06,Trap,2020
+289,29Hn3L56DQ6y7W249oVxqd,Last Kiss Of Nebulon,Tory Lanez,Alone At Prom,56,4.3,Clean,2023-08-01,2021-12-10,R&B,2020
+290,1au2UduxcvHfa0fZS3Szci,Lavender Sunflower,Tory Lanez,Alone At Prom,73,2.5,Clean,2023-08-01,2021-12-10,R&B,2020
+291,6ieWL5CLN9WdC875guWtMe,Lady Of Namek,Tory Lanez,Alone At Prom,72,3.2,Explicit,2023-08-01,2021-12-10,R&B,2020
+292,2gHQ7upBrDEFOZZTO6ktbZ,Pluto’s Last Comet,Tory Lanez,Alone At Prom,57,3.5,Clean,2023-08-01,2021-12-10,R&B,2020
+293,2PLOCIYlFr8XxNsz0Lgs4l,Ballad of a Badman,Tory Lanez,Alone At Prom,63,4.2,Clean,2023-08-01,2021-12-10,R&B,2020
+294,3azJifCSqg9fRij2yKIbWz,The Color Violet,Tory Lanez,Alone At Prom,84,3.8,Clean,2023-08-01,2021-12-10,R&B,2020
+295,6GGmABM6AMwMzEhK7szqJT,Pink Dolphin Sunset (feat. Tee),Tory Lanez,Alone At Prom,67,3.5,Clean,2023-08-01,2021-12-10,R&B,2020
+296,3xKsf9qdS1CyvXSMEid6g8,Pink + White,Frank Ocean,Blonde,86,3.1,Clean,2023-08-01,2016-08-20,R&B,2010
+297,5hM5arv9KDbCHS0k9uqwjr,Borderline,Tame Impala,The Slow Rush,82,4.0,Clean,2023-08-01,2020-02-14,Other,2020
+298,0RBw4ODUQPO4cuAOZtBGga,Hurts Me,Tory Lanez,Hurts Me,75,2.3,Clean,2023-08-01,2023-06-27,R&B,2020
+299,4EWCNWgDS8707fNSZ1oaA5,Heartless,Kanye West,808s & Heartbreak,83,3.5,Clean,2023-08-01,2008-11-24,Hip Hop,2000
+300,4iz9lGMjU1lXS51oPmUmTe,Homecoming,Kanye West,Graduation,80,3.4,Explicit,2023-08-01,2007-09-11,Hip Hop,2000
+301,3GCdLUSnKSMJhs4Tj6CV3s,"All The Stars (with SZA) - From ""Black Panther: The Album""",Kendrick Lamar,Black Panther The Album Music From And Inspired By,90,3.9,Explicit,2023-08-01,2018-02-09,Hip Hop,2010
+302,6qGu3Kz2Ruc1cuIqYPpwia,Nicotine,Pretty Boy Aaron,Nicotine,48,2.2,Clean,2023-08-01,2020-03-19,Hip Hop,2020
+303,7oe04qLMdQxHXhcGIfShXf,Piggypink,Hotel Ugly,Piggypink,61,2.7,Clean,2023-08-01,2021-03-31,Pop,2020
+304,31mzt4ZV8C0f52pIz1NSwd,Shut up My Moms Calling (Sped up),Hotel Ugly,Shut up My Moms Calling (Sped up),74,2.3,Clean,2023-08-01,2022-09-14,Pop,2020
+305,1cKHdTo9u0ZymJdPGSh6nq,I Was Never There,The Weeknd,"My Dear Melancholy,",83,4.0,Clean,2023-08-01,2018-03-30,R&B,2010
+306,1o0kWPueYo94LIjPYOE5Nf,Saint Pablo,Kanye West,The Life Of Pablo,70,6.2,Explicit,2023-07-31,2016-06-10,Hip Hop,2010
+307,23SZWX2IaDnxmhFsSLvkG2,Gorgeous,Kanye West,My Beautiful Dark Twisted Fantasy,68,6.0,Explicit,2023-07-31,2010-11-22,Hip Hop,2010
+308,7aWiJeMyxxPEyjwvZyauAF,Cosa Guapa,Rauw Alejandro,VICE VERSA,72,4.3,Explicit,2023-07-26,2021-12-10,Reggaeton,2020
+309,4PA1wK0leCjmRZlP5dQ8Lv,El Cielo,Sky Rompiendo,El Cielo,74,3.2,Explicit,2023-07-26,2023-06-02,Reggaeton,2020
+310,4qikXelSRKvoCqFcHLB2H2,Mercy,Kanye West,Mercy,69,5.5,Explicit,2023-07-26,2012-01-01,Hip Hop,2010
+311,6UR1k5NGqgNGzgVmMtT768,Cabaña,El Jordan 23,Cabaña,4,3.0,Explicit,2023-07-21,2023-06-24,Reggaeton,2020
+312,6Dk5fHTvH897XrVzCO64Mx,What You Won't Do for Love,Bobby Caldwell,What You Won't Do for Love,72,4.8,Clean,2023-07-17,1978-01-01,Rock,1970
+313,7Dhvtb3KnYj2KaRKhdLhMS,Smartphone,Soto Asa,Coupé,57,3.0,Explicit,2023-07-10,2020-12-18,Other,2020
+314,0KlVNwvWfKefPfynvWs82C,Coqueta Se Va,Taylor Diaz,Coqueta Se Va,19,3.2,Clean,2023-07-03,2018-02-16,Reggaeton,2010
+315,19Dhj2zNpcTX2mBYrxlkax,TMW,Avenoir,TMW,64,2.1,Clean,2023-06-26,2022-02-14,R&B,2020
+316,1VAKnb1btGrQXcVZVSRkPe,Good & Plenty,Alex Isley,Good & Plenty,61,3.4,Clean,2023-06-26,2020-07-17,Soul,2020
+317,0JXXNGljqupsJaZsgSbMZV,Sure Thing,Miguel,All I Want Is You,84,3.3,Clean,2023-06-26,2010-11-26,R&B,2010
+318,6WUMJCjZnatR6CbIcczDnr,Night Terrific! (feat. Yaqob),ODIE,Analogue,42,2.8,Clean,2023-06-26,2018-04-06,R&B,2010
+319,7BgyWwbbybJr2IbQoI1gzH,Stevie Doesn't Wonder,Hotel Ugly,Stevie Doesn't Wonder,69,2.7,Clean,2023-06-26,2021-12-07,Pop,2020
+320,7cLnbmx7ZUWAwyocrKz3wL,Let Go,Aaron May,CHASE,74,2.9,Explicit,2023-06-26,2019-02-28,Pop,2010
+321,7o5V0BUS9x8zdXMb2CiGpi,El Señor de la Noche,Don Omar,El Señor de la Noche,67,3.4,Clean,2023-06-26,2006-11-21,Reggaeton,2000
+322,5NijSs5dAwaIybq1GaRTIe,Poison,Brent Faiyaz,Poison,76,3.5,Clean,2023-06-05,2016-08-03,R&B,2010
+323,0y8Pu7x5jXgUjOIJvQIF5L,"Link Up (Metro Boomin & Don Toliver, Wizkid feat. BEAM & Toian) - Spider-Verse Remix (Spider-Man: Across the Spider-Verse )",Metro Boomin,METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE),63,3.3,Clean,2023-06-05,2023-06-02,Hip Hop,2020
+324,39MK3d3fonIP8Mz9oHCTBB,"Annihilate (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, Lil Wayne, Offset)",Metro Boomin,METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE),71,3.9,Clean,2023-06-03,2023-06-02,Hip Hop,2020
+325,6HexNTb392JS071DoTGo0y,Hummingbird (Metro Boomin & James Blake),Metro Boomin,METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE),65,5.3,Clean,2023-06-03,2023-06-02,Hip Hop,2020
+326,3L1JHXiqNOJ57w3n2R3HyU,raining for hours,ame,grey cloud,84,2.2,Clean,2023-05-27,2021-08-13,Electronic,2020
+327,1vL8O29x8cCH4Gr1GuXMHj,Work This Out,Motaki,Work This Out,24,4.2,Clean,2023-05-18,2018-12-04,Pop,2010
+328,3GPSvZvRl9clDZi0doxPQM,"Pimp on (feat. Aleman, Jarabe Kidd, Robot, Poofer & iQlover)",West Gold,West Gold,53,4.9,Explicit,2023-05-15,2018-01-19,Hip Hop,2010
+329,7jn4pr05Qh5irn2xj1MFEw,Mareao,COSMIC KID,Mareao,20,2.6,Explicit,2023-05-15,2022-04-28,Trap,2020
+330,7JEXEuuEQ7qDTW1DAOpFCz,Revenge,STRANGEHUMAN,Revenge,55,2.2,Explicit,2023-05-15,2021-10-28,Pop,2020
+331,7D5gkUVhkLbe5e8qG1NqcZ,Brighter,RÜFÜS DU SOL,Bloom,61,4.7,Clean,2023-05-12,2016-01-22,Electronic,2010
+332,3GJ3LbANmSjm3Dyg5dhANv,Nueva Generación,Rels B,Nueva Generación,34,2.6,Explicit,2023-05-12,2017-04-06,Latin,2010
+333,3lN8PP6R2IxbLP05QpYXng,Born To Be Wild - Single Version,Steppenwolf,Steppenwolf,74,3.5,Clean,2023-05-07,1968-01-01,Rock,1960
+334,1iEwyiSLAunPR6uouANE0O,El Perdedor,Maluma,"Pretty Boy, Dirty Boy",79,3.4,Clean,2023-04-27,2015-10-30,Reggaeton,2010
+335,0RKglZdTQ7BLrs6vplb2qm,Dibújame,Rich Vagos,Dibújame,67,3.9,Clean,2023-04-23,2020-04-03,Hip Hop,2020
+336,3ioJs8DQw527GmqJIp5gZG,Nail Tech,Jack Harlow,Come Home The Kids Miss You,61,3.4,Explicit,2023-04-19,2022-05-06,Hip Hop,2020
+337,5NEIEghTIfcIIOKuLlaKPc,Te Ire a Buscar,Santa Fe Klan,Te Ire a Buscar,0,3.6,Clean,2023-04-10,2019-06-18,Hip Hop,2010
+338,0Y0TOsE1q11qgbi7c5WZsG,R.I.C.O. (feat. Drake),Meek Mill,Dreams Worth More Than Money,66,3.3,Explicit,2023-04-07,2015-06-29,Hip Hop,2010
+339,2QPW157Ms76KiW8rByD73h,Trouble,Adam Jensen,Trouble,46,3.7,Clean,2023-04-03,2021-02-12,Other,2020
+340,1TJ6lCA34oTvIWBVKoYdX6,Slim Thugs,Alemán,Eclipse,4,3.1,Explicit,2023-04-01,2018-05-16,Hip Hop,2010
+341,1ueNGgC9xeSxUXXe1VyNh7,Needed Me x Streets (Sped Up) - Remix,DJ Fronteo,Needed Me x Streets (Sped Up) (Remix),0,3.5,Clean,2023-03-23,2022-11-22,Electronic,2020
+342,5nNcBfbJu1RjBoKplRPw5m,La Busqué,KEVVO,Cotidiano,0,4.5,Clean,2023-03-10,2021-12-02,Reggaeton,2020
+343,2CvfXjMfoheLIdjlkIBjXA,LOS CULOS DE MEDALLO,Kapla y Miky,LOS CULOS DE MEDALLO,37,2.7,Clean,2023-03-10,2023-03-01,Latin,2020
+344,7oDd86yk8itslrA9HRP2ki,Die For You - Remix,The Weeknd,Die For You (Remix),73,3.9,Clean,2023-02-27,2023-02-24,R&B,2020
+345,3r5OlIxUKkh2ydNeYYh6tD,Picaflor,Lao Ra,Picaflor,46,3.0,Clean,2023-02-22,2019-11-29,Latin,2010
+346,6odrHMSLjP3aOXC4ipKUC6,La Bebe,Yng Lvcas,LPM,64,3.7,Clean,2023-02-21,2021-12-24,Reggaeton,2020
+347,4JdoNXs8MyxoovRv4g9udm,Te Venero,C. Tangana,El Madrileño (La Sobremesa),49,3.1,Clean,2023-02-20,2022-02-18,Latin,2020
+348,7ru64oSycDH1RdSZTGVlsK,Hooka,Lunaty,Hooka,8,3.0,Clean,2023-02-11,2022-08-26,Other,2020
+349,6HIIuuUIEzH1meVdGbMXyf,Ya Supérame (En Vivo),Grupo Firme,Ya Supérame (En Vivo),3,3.2,Clean,2023-02-05,2021-08-13,Other,2020
+350,0RmUjJteEkkF5kKdhEfwNe,Hustler,Zayde Wølf,Golden Age,1,3.2,Clean,2023-02-02,2016-11-04,Rock,2010
+351,2vXKRlJBXyOcvZYTdNeckS,Lost in the Fire (feat. The Weeknd),Gesaffelstein,Hyperion,81,3.4,Explicit,2023-01-26,2019-03-08,Electronic,2010
+352,5E30LdtzQTGqRvNd7l6kG5,Daddy Issues,The Neighbourhood,Wiped Out!,84,4.3,Clean,2023-01-26,2015-10-30,Alternative/Indie,2010
+353,6P096SaOzrgGxs8NWOfX7M,Salimo de Noche,Tiago PZK,Salimo de Noche,58,3.0,Explicit,2023-01-20,2021-10-21,Trap,2020
+354,4RtPruLRZbyirtJGqYHPQm,Antes de Perderte,Duki,Antes de Perderte,63,2.9,Clean,2023-01-20,2022-06-02,Trap,2020
+355,1sbxPVKNi6OLUdTHRrbd5A,24K,Frijo,24K,52,2.1,Clean,2023-01-20,2019-09-06,Trap,2010
+356,1Ch9GzbQRNGweMmLqG855b,Confiado & Tranquilo,Paulo,Confiado & Tranquilo,0,3.5,Clean,2023-01-20,2017-05-30,Latin,2010
+357,2mnXxnrX5vCGolNkaFvVeM,La Jumpa,Arcángel,Sr. Santos,70,4.3,Explicit,2023-01-16,2022-12-01,Reggaeton,2020
+358,2tTmW7RDtMQtBk7m2rYeSw,"Quevedo: Bzrp Music Sessions, Vol. 52",Bizarrap,"Quevedo: Bzrp Music Sessions, Vol. 52",80,3.3,Clean,2023-01-16,2022-07-06,Trap,2020
+359,4nrPB8O7Y7wsOCJdgXkthe,"Shakira: Bzrp Music Sessions, Vol. 53",Bizarrap,"Shakira: Bzrp Music Sessions, Vol. 53",75,3.6,Clean,2023-01-16,2023-01-11,Trap,2020
+360,6G12ZafqofSq7YtrMqUm76,Monotonía,Shakira,Monotonía,68,2.6,Clean,2023-01-16,2022-10-19,Latin,2020
+361,5XeFesFbtLpXzIVDNQP22n,I Wanna Be Yours,Arctic Monkeys,AM,91,3.1,Clean,2023-01-16,2013-09-09,Alternative/Indie,2010
+362,3vWzyGTu6Ovo1GdrcJqH6e,Scared of the Dark (feat. XXXTENTACION),Lil Wayne,Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),70,3.9,Clean,2023-01-15,2018-12-14,Hip Hop,2010
+363,4SCKqvd2n0XPojbmjJFTx8,Que Bendición,Sonic Piñotas Music,Que Bendición,0,2.6,Clean,2023-01-13,2022-12-27,Latin,2020
+364,73SpzrcaHk0RQPFP73vqVR,No Time To Die,Billie Eilish,No Time To Die,75,4.0,Clean,2023-01-07,2020-02-13,Pop,2020
+365,0km08lFJZ1LBwXXrSfrBQl,A Song For You,Kodi Lee,A Song For You,39,3.5,Clean,2023-01-07,2022-08-31,Pop,2020
+366,7lQ8MOhq6IN2w8EYcFNSUk,Without Me,Eminem,The Eminem Show,86,4.8,Explicit,2023-01-06,2002-05-26,Hip Hop,2000
+367,4xkOaSrkexMciUUogZKVTS,Till I Collapse,Eminem,The Eminem Show,83,5.0,Explicit,2023-01-06,2002-05-26,Hip Hop,2000
+368,3UmaczJpikHgJFyBTAJVoz,Stan,Eminem,The Marshall Mathers LP,80,6.7,Explicit,2023-01-06,2000-05-23,Hip Hop,2000
+369,3yfqSUWxFvZELEM4PmlwIR,The Real Slim Shady,Eminem,The Marshall Mathers LP,84,4.7,Explicit,2023-01-06,2000-05-23,Hip Hop,2000
+370,1v7L65Lzy0j0vdpRjJewt1,Lose Yourself,Eminem,Just Lose It,79,5.4,Explicit,2023-01-06,2004-01-01,Hip Hop,2000
+371,75IN3CtuZwTHTnZvYM4qnJ,My Name Is,Eminem,The Slim Shady LP,73,4.5,Explicit,2023-01-06,1999-02-23,Hip Hop,1990
+372,1igEIWKv2MYL1myoHwwSSY,Love,Foster The People,Torches X (Deluxe Edition),37,3.7,Clean,2022-12-23,2021-11-12,Alternative/Indie,2020
+373,1nPjPnOhuKXhhjHA5LSaqL,Ruby,Foster The People,Ruby,41,5.2,Clean,2022-12-23,2011-01-01,Alternative/Indie,2010
+374,66iygyOSvvoQQsKJ1vEXfT,Tú de Qué Vas,Franco De Vita,Stop,75,4.0,Clean,2022-12-16,2004-04-28,Latin,2000
+375,3g4UyIcQwutiG0TfW32GnX,Esclavo de Tus Besos,Manuel Turizo,Esclavo de Tus Besos,55,3.7,Clean,2022-12-13,2019-02-15,Reggaeton,2010
+376,4ON0wg71I7dOCIunXi7sFd,No tienes motivacion,El Burger,No tienes motivacion,57,2.1,Clean,2022-12-03,2022-03-24,Latin,2020
+377,2bbwjxA68m9PHZFWgF1fze,GIVENCHY,Duki,Temporada de Reggaetón 2,62,3.0,Explicit,2022-12-03,2022-07-20,Trap,2020
+378,22MC8VbKP6Qedbar74WkzU,Quiere Que Llame,Feloman,Quiere Que Llame,57,3.2,Explicit,2022-12-02,2018-03-03,Hip Hop,2010
+379,4GhtDORJiSRYxj6M1bv0vX,Love Really Hurts Without You,Billy Ocean,Billy Ocean (Expanded Edition),71,3.0,Clean,2022-11-26,1976-01-05,Rock,1970
+380,6TsVhM8qIkWN5cJVDIVbbz,Besos Moja2,Wisin & Yandel,La Última Misión,1,3.8,Clean,2022-11-09,2022-09-30,Reggaeton,2020
+381,4gi2kndWShH9kDbb9kBfs6,Fighter,The Score,Metamorph,58,2.6,Clean,2022-11-06,2022-03-18,Alternative/Indie,2020
+382,4tQofG51E0juZBBVr6pral,Tuyo,Mora,Primer Dia de Clases,78,4.5,Explicit,2022-11-02,2021-02-05,Latin,2020
+383,0Gv6sr4tFPkYDIuUVxOx7H,Lighters Up (feat. Mavado & Popcaan),Snoop Lion,Reincarnated (Deluxe Version),46,3.8,Clean,2020-04-24,2013-04-19,Other,2010
+384,7tqhbajSfrz2F7E1Z75ASX,Ain't No Mountain High Enough,Marvin Gaye,United,82,2.5,Clean,2020-03-23,1967-08-29,Other,1960
+385,6c12fBpCtuVIq8OFxT0A3S,Lordly (feat. Alex Aiono),Feder,Lordly (feat. Alex Aiono),52,3.3,Clean,2020-03-18,2016-08-26,Electronic,2010
+386,7MmrcXVA7A5zZ2CbDuGHNa,A Mí,Rels B,A Mí,81,3.5,Clean,2020-03-17,2019-02-21,Latin,2010
+387,4MZSqgwlE71CWZ6qQ3gkKm,<3,Bad Bunny,YHLQMDLG,68,2.6,Clean,2020-02-29,2020-02-29,Reggaeton,2020
+388,1V8XneTrX6kKeoxYbk4x6h,Hablamos Mañana,Bad Bunny,YHLQMDLG,69,4.0,Clean,2020-02-29,2020-02-29,Reggaeton,2020
+389,0fgsKar6uBO08vzHXkTjWi,P FKN R,Bad Bunny,YHLQMDLG,62,4.3,Explicit,2020-02-29,2020-02-29,Reggaeton,2020
+390,5gCg2qMPzKkW4jS4dBKdDs,Puesto Pa' Guerrial,Bad Bunny,YHLQMDLG,59,3.2,Explicit,2020-02-29,2020-02-29,Reggaeton,2020
+391,4saHEjXw7O1NXJOzBkUKKG,Está Cabrón Ser Yo,Bad Bunny,YHLQMDLG,69,3.8,Explicit,2020-02-29,2020-02-29,Reggaeton,2020
+392,4NqQaovM14WR2hNPMFxgjb,25/8,Bad Bunny,YHLQMDLG,72,4.1,Clean,2020-02-29,2020-02-29,Reggaeton,2020
+393,2DEZmgHKAvm41k4J3R2E9Y,Safaera,Bad Bunny,YHLQMDLG,76,4.9,Explicit,2020-02-29,2020-02-29,Reggaeton,2020
+394,4r9jkMEnArtWGH2rL2FZl0,A Tu Merced,Bad Bunny,YHLQMDLG,75,2.9,Clean,2020-02-29,2020-02-29,Reggaeton,2020
+395,38RIEav39FGi86jppxO0du,Ignorantes,Bad Bunny,YHLQMDLG,69,3.5,Explicit,2020-02-29,2020-02-29,Reggaeton,2020
+396,2n7ohqg1s68ToAHh4u9mcW,Vete,Bad Bunny,YHLQMDLG,71,3.2,Explicit,2020-02-29,2020-02-29,Reggaeton,2020
+397,53v2u51nq3CxiKUNphRzP1,Que Malo,Bad Bunny,YHLQMDLG,72,2.8,Explicit,2020-02-29,2020-02-29,Reggaeton,2020
+398,5kqNIqFjijuzvVLhuY9B8j,La Zona,Bad Bunny,YHLQMDLG,68,2.3,Explicit,2020-02-29,2020-02-29,Reggaeton,2020
+399,7sOfmPd18RWp3FoCzpa7Kw,Soliá,Bad Bunny,YHLQMDLG,71,2.7,Explicit,2020-02-29,2020-02-29,Reggaeton,2020
+400,0SqqAgdovOE24BzxIClpjw,Yo Perreo Sola,Bad Bunny,YHLQMDLG,72,2.9,Explicit,2020-02-29,2020-02-29,Reggaeton,2020
+401,75pQqzwgCjUOSSy5CpmAjy,Pero Ya No,Bad Bunny,YHLQMDLG,66,2.7,Clean,2020-02-29,2020-02-29,Reggaeton,2020
+402,6NfrH0ANGmgBXyxgV2PeXt,La Difícil,Bad Bunny,YHLQMDLG,71,2.7,Explicit,2020-02-29,2020-02-29,Reggaeton,2020
+403,41wtwzCZkXwpnakmwJ239F,Si Veo a Tu Mamá,Bad Bunny,YHLQMDLG,77,2.8,Clean,2020-02-29,2020-02-29,Reggaeton,2020
+404,4pGCA3BOCADbAAvK4HIozW,Experiencia Religiosa,Enrique Iglesias,Enrique Iglesias,0,5.5,Clean,2020-02-26,1995-11-21,Latin,1990
+405,4ejyZ4uJEXUURcgKp1kP8v,After Hours,The Weeknd,After Hours,1,6.0,Clean,2020-02-25,2020-02-19,R&B,2020
+406,5W4HN5rnSphY6nG5cD9elB,Azúcar,Mau Moctezuma,Azúcar,35,2.5,Clean,2020-02-24,2019-02-22,Latin,2010
+407,0rT9f5BSZrZ6DvzfBEckG0,Butterflies,Michael Jackson,Invincible,61,4.7,Clean,2020-02-07,2001-10-29,Pop,2000
+408,4Egu7kAjEmygXrtX2n7AIV,So Fresh,Paulo Londra,Homerun,55,2.8,Clean,2020-02-04,2019-05-23,Trap,2010
+409,34w1ycoersTjtBsRQsKzgT,Querido Amigo,Paulo Londra,Homerun,64,3.8,Clean,2020-02-04,2019-05-23,Trap,2010
+410,5Kr3a1wbMDSxdgDZzJhxhy,Sigan Hablando de Mi,Paulo Londra,Homerun,52,2.7,Clean,2020-02-04,2019-05-23,Trap,2010
+411,5tCIr5bTv77OTVBvwLtlSM,Y Yo No Sé,Paulo Londra,Homerun,55,3.2,Clean,2020-02-04,2019-05-23,Trap,2010
+412,2l7CpLcHxJeiWibGWftnew,Maldita Abusadora,Paulo Londra,Homerun,62,4.2,Clean,2020-02-04,2019-05-23,Trap,2010
+413,1algWk375QvT1XNJJbRsGM,Demasiado Loco,Paulo Londra,Homerun,63,2.8,Clean,2020-02-04,2019-05-23,Trap,2010
+414,6MbSMSXrSlvsyHf4kcaLQi,No Puedo,Paulo Londra,Homerun,65,2.9,Clean,2020-02-04,2019-05-23,Trap,2010
+415,7kh95COsNZjnTmc6aF76n7,Homerun (Intro),Paulo Londra,Homerun,64,2.5,Clean,2020-02-04,2019-05-23,Trap,2010
+416,3uwehoqKSQLa5lFFvIX6M3,Dimelo,Paulo Londra,Dimelo,0,3.5,Clean,2020-02-04,2018-05-08,Trap,2010
+417,4DhTBCvoemYivBVHkk7RKI,Cafuné,Micro TDH,Inefable,70,4.4,Clean,2020-02-04,2017-06-16,Latin,2010
+418,3TnhQSRwT3AVMdXw5JPq0x,Nena Maldicion (feat. Lenny Tavarez),Paulo Londra,Nena Maldicion (feat. Lenny Tavarez),0,3.8,Clean,2020-02-04,2018-01-30,Trap,2010
+419,5Qwrf0Z0GthnM4PVjCimd0,Aqui Estoy,Micro TDH,Aqui Estoy,0,3.3,Explicit,2020-02-04,2018-08-28,Latin,2010
+420,2r77vqSZkOktTSgmAOoHsV,Chica Paranormal,Paulo Londra,Chica Paranormal,0,3.7,Clean,2020-02-04,2018-07-24,Trap,2010
+421,21qvRFmtuNS5D2EWQsSOZL,Besame Sin Sentir,Micro TDH,Besame Sin Sentir,0,4.1,Explicit,2020-02-04,2018-11-27,Latin,2010
+422,5NPzbTzFxIQPaheZuPhn4f,Forever Alone,Paulo Londra,Forever Alone,51,3.6,Clean,2020-02-04,2019-02-13,Trap,2010
+423,53rkN7z3bKorDSIxDvqXNt,Solo Pienso En Ti (feat. De La Ghetto & Justin Quiles),Paulo Londra,Solo Pienso En Ti (feat. De La Ghetto & Justin Quiles),48,4.5,Clean,2020-02-04,2019-05-14,Trap,2010
+424,6FyRXC8tJUh863JCkyWqtk,Adan y Eva,Paulo Londra,Adan y Eva,62,4.3,Clean,2020-02-04,2018-11-05,Trap,2010
+425,4t8YQE2FIpTIq9SxeuOuuP,Dime Cuantas Veces,Micro TDH,Dime Cuantas Veces,67,3.6,Clean,2020-02-04,2019-04-30,Latin,2010
+426,1cVlW9WQiGlFdWUXFdFZGh,Pa' Olvidarme De Ella,Piso 21,Pa' Olvidarme De Ella,64,3.8,Explicit,2020-02-04,2019-09-06,Reggaeton,2010
+427,3BaqaNqlr2BAOgtmamDqSV,Love Me Less (feat. Kim Petras),MAX,Love Me Less (feat. Kim Petras),35,3.0,Clean,2020-02-02,2019-09-05,Pop,2010
+428,6GIRtKNXokeu25nn7U6Hu8,Easier - Seeb Remix,5 Seconds of Summer,Easier (Seeb Remix),49,2.8,Clean,2020-02-02,2019-07-12,Pop,2010
+429,3ctoHckjyd13eBi2IDw2Ip,Seven Nation Army,The White Stripes,Elephant,4,3.9,Clean,2020-02-01,2003-04-01,Rock,2000
+430,46NBoIAHrmR7qcUGCIFEjR,This One's for You (feat. Zara Larsson) (Official Song UEFA EURO 2016),David Guetta,This One's for You (feat. Zara Larsson) [Official Song UEFA EURO 2016],69,3.5,Clean,2020-02-01,2016-05-13,Electronic,2010
+431,5JTAGruCIDyRLhKLwFkTnS,Die Trying,Michl,Die Trying,49,3.5,Clean,2020-02-01,2016-05-10,Pop,2010
+432,5zViOYAEOrfNn8wd0sN4MH,n y l a,blackbear,n y l a,39,5.0,Clean,2020-02-01,2013-08-23,R&B,2010
+433,57nReJa69S1lEJGYHLCKlx,Lavender and Velvet,Alina Baraz,Lavender and Velvet,0,3.8,Clean,2020-02-01,2017-09-29,R&B,2010
+434,3BymIH6QBGllSijMm3sQiR,Wylin',Always Never,Always Never,48,4.5,Explicit,2020-02-01,2018-08-24,R&B,2010
+435,01kmEgrTZAGvJNicVB7laT,Alone,Lund,Gold,0,4.2,Explicit,2020-02-01,2016-10-23,Hip Hop,2010
+436,6I7Au00FC6K6IVuZm83U1G,Kendall,DYSN,Wonderland,0,3.1,Explicit,2020-02-01,2016-03-25,Pop,2010
+437,1krJjodZxgpjs6luOlB9uO,That's Life,Frank Sinatra,That's Life,0,3.1,Clean,2020-01-30,1966-11-01,Other,1960
+438,76Zi40dd2HoTn3sehttJhY,My Way,Frank Sinatra,My Way (40th Anniversary Edition),0,4.6,Clean,2020-01-30,1969-03-01,Other,1960
+439,1iZgzgmsFsi0deffe0rleB,Fly Me To The Moon (In Other Words),Frank Sinatra,It Might As Well Be Swing,55,2.5,Clean,2020-01-30,1964-08-01,Other,1960
+440,4hHbeIIKO5Y5uLyIEbY9Gn,Come Fly With Me - Remastered 1998,Frank Sinatra,Come Fly With Me (Expanded Edition),66,3.3,Clean,2020-01-30,1958-01-01,Other,1950
+441,3cVWNLd0uEHkc2tnBoE3Ay,Somethin' Stupid,Frank Sinatra,The World We Knew,0,2.7,Clean,2020-01-30,1967-08-01,Other,1960
+442,0zRtBDhwtIFTfoK2HuURbM,Raindrops Keep Fallin' On My Head,B.J. Thomas,Raindrops Keep Fallin' On My Head,0,3.1,Clean,2020-01-30,2005-01-01,Pop,2000
+443,0L6UCE1Y0KX3MF2AtxlntI,Fragile,Kygo,Fragile,1,3.8,Clean,2020-01-30,2016-03-18,Electronic,2010
+444,0j0DNujXWeupLpZobbABoo,Nothing Left (feat. Will Heard),Kygo,Nothing Left (feat. Will Heard),46,3.9,Clean,2020-01-30,2015-07-31,Electronic,2010
+445,6DsFZITJMPnh8z5XewfVmL,Raging (feat. Kodaline),Kygo,Raging (feat. Kodaline),54,3.7,Clean,2020-01-30,2016-04-01,Electronic,2010
+446,7vqUr6K2Js9Paq4kdNSOm6,Here for You (feat. Ella Henderson),Kygo,Here for You (feat. Ella Henderson),59,4.1,Clean,2020-01-30,2015-09-04,Electronic,2010
+447,3t0J8vI9StQD8KIBkT2Cp5,Tired - Kygo Remix,Alan Walker,Tired (Kygo Remix),52,4.0,Clean,2020-01-30,2017-07-14,Electronic,2010
+448,5masKPHeAOVNgxdLebIcK7,Stole the Show,Kygo,Cloud Nine,77,3.7,Clean,2020-01-30,2016-05-13,Electronic,2010
+449,6mDTcLsheIzu5tvaF25kl4,It Ain't Me,Kygo,Stargazing - EP,0,3.7,Clean,2020-01-30,2017-09-21,Electronic,2010
+450,7s1upm7yr7ZjrzXMwHawtG,Sexual Healing - Kygo Remix,Marvin Gaye,Sexual Healing (Kygo Remix),63,6.1,Clean,2020-01-30,2015-04-27,Other,2010
+451,3y3brCCecHC3Db18aIOnny,"Carry On (from the Original Motion Picture ""POKÉMON Detective Pikachu"")",Kygo,"Carry On (from the Original Motion Picture ""POKÉMON Detective Pikachu"")",58,3.6,Clean,2020-01-30,2019-04-19,Electronic,2010
+452,6oJ6le65B3SEqPwMRNXWjY,Higher Love,Kygo,Higher Love,73,3.8,Clean,2020-01-30,2019-06-28,Electronic,2010
+453,1I8tHoNBFTuoJAlh4hfVVE,Firestone,Kygo,Cloud Nine,77,4.5,Clean,2020-01-30,2016-05-13,Electronic,2010
+454,3o1CUVeHIid49sabk6A6Nf,Forever Yours - Avicii Tribute,Kygo,Forever Yours (Avicii Tribute),60,3.2,Clean,2020-01-30,2020-01-24,Electronic,2020
+455,4h8VwCb1MTGoLKueQ1WgbD,Wake Me Up,Avicii,True,10,4.1,Clean,2020-01-30,2013-09-13,Electronic,2010
+456,26wLOs3ZuHJa2Ihhx6QIE6,Teeth,5 Seconds of Summer,13 Reasons Why (Season 3),66,3.4,Clean,2020-01-30,2019-08-23,Pop,2010
+457,5dS2dvXVPe7AR6UwBpnomW,Make It to Heaven (with Raye),David Guetta,Make It To Heaven (with Raye),49,2.9,Clean,2020-01-30,2019-11-21,Electronic,2010
+458,5hVghJ4KaYES3BFUATCYn0,EARFQUAKE,"Tyler, The Creator",IGOR,79,3.2,Explicit,2020-01-30,2019-05-17,Hip Hop,2010
+459,5itOtNx0WxtJmi1TQ3RuRd,Giant (with Rag'n'Bone Man),Calvin Harris,Giant (with Rag'n'Bone Man),66,3.8,Clean,2020-01-30,2019-01-11,Electronic,2010
+460,6Tvzf3VEi16JMhAgOwdt2y,Birds,Imagine Dragons,Origins (Deluxe),72,3.7,Clean,2020-01-30,2018-11-09,Alternative/Indie,2010
+461,3ee8Jmje8o58CHK66QrVC2,SAD!,XXXTENTACION,?,79,2.8,Explicit,2020-01-30,2018-03-16,Hip Hop,2010
+462,21jGcNKet2qwijlDFuPiPb,Circles,Post Malone,Hollywood's Bleeding,85,3.6,Clean,2020-01-30,2019-09-06,Hip Hop,2010
+463,2sqsNXfN0HtgDEgaHXiUTa,Won't Be Late (feat. Drake),Swae Lee,Won't Be Late (feat. Drake),65,3.6,Clean,2020-01-30,2019-08-16,Hip Hop,2010
+464,23OXdR7YuUBVWh5hSnYJau,Chlorine,Twenty One Pilots,Trench,75,5.4,Clean,2020-01-30,2018-10-05,Alternative/Indie,2010
+465,6b2RcmUt1g9N9mQ3CbjX2Y,How Do You Sleep?,Sam Smith,How Do You Sleep?,66,3.4,Clean,2020-01-30,2019-07-19,Pop,2010
+466,41L3O37CECZt3N7ziG2z7l,Yummy,Justin Bieber,Yummy,64,3.5,Clean,2020-01-30,2020-01-03,Pop,2020
+467,7h0d2h0fUmzbs7zeFigJPn,HIGHEST IN THE ROOM (feat. ROSALÍA & Lil Baby) - REMIX,Travis Scott,JACKBOYS,60,4.1,Explicit,2020-01-30,2019-12-27,Hip Hop,2010
+468,5SAUIWdZ04OxYfJFDchC7S,Smoke on the Water,Deep Purple,Machine Head,63,5.7,Clean,2020-01-30,1972-03-25,Rock,1970
+469,3HfB5hBU0dmBt8T0iCmH42,Creep,Radiohead,Pablo Honey (Collector's Edition),2,3.9,Explicit,2020-01-30,1993-04-23,Rock,1990
+470,3YBZIN3rekqsKxbJc9FZko,Paradise City,Guns N' Roses,Appetite For Destruction,10,6.8,Explicit,2020-01-30,1987-07-21,Rock,1980
+471,3YRCqOhFifThpSRFJ1VWFM,November Rain,Guns N' Roses,Use Your Illusion I,81,8.9,Clean,2020-01-30,1991-09-17,Rock,1990
+472,5UwbnHhjnbinJH8TefuQfN,Long Cool Woman (In a Black Dress) - 1999 Remaster,The Hollies,Distant Light (1999 Remaster),6,3.3,Clean,2020-01-30,1971-10-08,Rock,1970
+473,3aoDEt6zSuYQ47gzarlaVo,Money - 2011 Remastered Version,Pink Floyd,The Dark Side Of The Moon (2011 Remastered Version),0,6.4,Clean,2020-01-30,1973-03-16,Rock,1970
+474,6InAFCfwjgsUtDoaOCwwZL,Voto Latino,Molotov,¿Dónde Jugarán Las Niñas?,58,3.0,Clean,2020-01-30,1997-01-01,Rock,1990
+475,7svv80OeI8fsH30dx5UFCu,Rayando el Sol,Maná,Você É Minha Religião: O Melhor Do Maná (Deluxe Version),46,4.2,Clean,2020-01-30,2012-10-26,Rock,2010
+476,5RIypaRRQFO7tizTuK4iuU,Mil Horas,Andrés Calamaro,Rock En Español - Otro Más,0,2.8,Clean,2020-01-30,2006-01-01,Rock,2000
+477,7LpS82vPDLgZAHWRtWBBRj,Ni tú ni nadie,Alaska Y Dinarama,Deseo Carnal,67,3.6,Clean,2020-01-30,1984-05-29,Rock,1980
+478,6cqwDeMvlCKI9CoeVahGrM,Mátenme Porque Me Muero,Caifanes,Caifanes,69,3.6,Clean,2020-01-30,1988-05-15,Rock,1980
+479,3uMYq07Kj5m564OQwdSCrD,Cuando Pase El Temblor - Remasterizado 2007,Soda Stereo,Nada Personal (Remastered),75,3.8,Clean,2020-01-30,1985-10-09,Rock,1980
+480,25NeGSHqObqSJg79oir7pB,Cuando Seas Grande,Miguel Mateos - Zas,Solos en América,67,4.4,Clean,2020-01-30,1986-09-01,Rock,1980
+481,1qvY1z3Wm3sAYeHfPTnrbI,La Muralla Verde,Los Enanitos Verdes,Originales - 20 Exitos,66,2.7,Clean,2020-01-30,1986-01-01,Rock,1980
+482,3M1H1CWjrSq7nxABHc8EXv,Lobo-hombre en París,La Unión,Grandes Exitos,70,3.9,Clean,2020-01-30,2000-06-30,Rock,2000
+483,5EJ2THuhAapEIeQOtXUQ0x,Oye Mi Amor,Maná,¿Dónde Jugarán Los Niños?,79,4.4,Clean,2020-01-30,1992-01-01,Rock,1990
+484,2lpIh6Gr6HYjg1CFBaucS5,De Música Ligera - Remasterizado 2007,Soda Stereo,Canción Animal (Remastered),74,3.5,Clean,2020-01-30,1990-10-09,Rock,1990
+485,6Pur3hWy6Nzc27ilmsp5HA,Lamento Boliviano,Los Enanitos Verdes,Big Bang,79,3.7,Clean,2020-01-30,1994-01-01,Rock,1990
+486,1Wrzhfa5bNlqvsnCztz190,Devuélveme a mi chica,Hombres G,Hombres G (Edición 30 Aniversario),78,3.2,Clean,2020-01-30,1985-01-01,Rock,1980
+487,67kXYrMTQbS7MVbXyGyxHm,Angels,Khalid,American Teen,52,2.8,Clean,2020-01-30,2017-04-27,R&B,2010
+488,1Ob94QesoxHSBrypyBbdfd,Shot Down,Khalid,American Teen,54,3.5,Clean,2020-01-30,2017-04-27,R&B,2010
+489,6SWHTMywuTXLFlMQ75cAuu,Keep Me,Khalid,American Teen,50,4.6,Clean,2020-01-30,2017-04-27,R&B,2010
+490,25YvGDl2zSE0pH8jrMZ6aY,Therapy,Khalid,American Teen,53,4.3,Clean,2020-01-30,2017-04-27,R&B,2010
+491,4V3VshJLUTCIWa77YiAkvM,Winter,Khalid,American Teen,52,4.0,Clean,2020-01-30,2017-04-27,R&B,2010
+492,34izzOmykADkGT27pUjUvJ,Cold Blooded,Khalid,American Teen,51,3.5,Clean,2020-01-30,2017-04-27,R&B,2010
+493,3JTtZUOiZljuWbNiasfHB6,Hopeless,Khalid,American Teen,50,2.8,Clean,2020-01-30,2017-04-27,R&B,2010
+494,6AIccJIWHGK26xi34FAkwl,Let's Go,Khalid,American Teen,51,3.4,Explicit,2020-01-30,2017-04-27,R&B,2010
+495,5bgwqaRSS3M8WHWruHgSL5,8TEEN,Khalid,American Teen,73,3.8,Clean,2020-01-30,2017-04-27,R&B,2010
+496,39KG4kom3enSx4GTThuDGt,Coaster,Khalid,American Teen,63,3.3,Clean,2020-01-30,2017-04-27,R&B,2010
+497,248OFOZef6ShXv6DGgbnxU,Saved,Khalid,American Teen,62,3.4,Clean,2020-01-30,2017-04-27,R&B,2010
+498,52Qu0no0NBho3zyRmjlsHn,Another Sad Love Song,Khalid,American Teen,60,4.1,Clean,2020-01-30,2017-04-27,R&B,2010
+499,5Z3GHaZ6ec9bsiI5BenrbY,Young Dumb & Broke,Khalid,American Teen,81,3.4,Clean,2020-01-30,2017-04-27,R&B,2010
+500,312WNtMs3F28cUukaPY9bo,American Teen,Khalid,American Teen,60,4.2,Clean,2020-01-30,2017-04-27,R&B,2010
+501,1RTlTuLOdnmgbe11ynwR7c,No Es Justo,J Balvin,No Es Justo,54,4.2,Clean,2020-01-30,2018-05-11,Reggaeton,2010
+502,12KP3TP0BYKhYWp0H3YXtq,Tocando Fondo,Kalimba,Aerosoul,65,4.1,Clean,2020-01-30,2004-04-14,Latin,2000
+503,0xXhgLXfEHnWJHVgRvFvdn,Creo en Ti,Reik,Peligro,69,2.7,Clean,2020-01-30,2011-08-12,Latin,2010
+504,4skuEIloXWuxxgekKupkEH,Tu Falta De Querer,Mon Laferte,Mon Laferte (Vol. 1),80,4.6,Clean,2020-01-30,2015-08-21,Latin,2010
+505,6kdCN6gTWLcLxmLXoUcwuI,Eres,Café Tacvba,Cuatro Caminos,77,4.5,Clean,2020-01-30,2003-07-01,Rock,2000
+506,5tyznRXlcIx0XlQ7S8iCMW,Love,Zoé,Rocanlover,70,3.4,Clean,2020-01-30,2003-11-19,Rock,2000
+507,0aTMBEfPCCkKkneU6gLmDD,El Triste,José José,Jose Jose (1),68,4.2,Clean,2020-01-30,1970-01-01,Other,1970
+508,2kJaoWF0iUmqma7fp9HPkh,Soldado Del Amor,Mijares,Celebridades- Mijares,11,3.7,Clean,2020-01-30,2008-01-01,Other,2000
+509,3lJwIAfeWtnNRbJXWbIHKD,A quien tú decidiste amar,Sandoval,Lo Que Siempre Soñamos Ser,69,3.8,Clean,2020-01-30,2009-07-21,Latin,2000
+510,3EK4tGkSiO5xvvB5sM4tln,Amárrame,Mon Laferte,La Trenza,75,3.5,Clean,2020-01-30,2017-04-27,Latin,2010
+511,1fgaOwpFRwsQr9V8sPMbka,El Amar y el Querer,José José,20 Triunfadoras De Jose Jose,45,3.1,Clean,2020-01-30,1994-06-21,Other,1990
+512,2mlGPkAx4kwF8Df0GlScsC,Buttercup,Jack Stauber,Pop Food,67,3.5,Clean,2020-01-30,2017-03-25,Alternative/Indie,2010
+513,1mhVXWduD8ReDwusfaHNwU,Tell Your Friends,The Weeknd,Beauty Behind The Madness,66,5.6,Explicit,2020-01-30,2015-08-28,R&B,2010
+514,22VdIZQfgXJea34mQxlt81,Can't Feel My Face,The Weeknd,Beauty Behind The Madness,82,3.6,Clean,2020-01-30,2015-08-28,R&B,2010
+515,4MPTj8lMMvxLwT3EwuXFop,Call Out My Name,The Weeknd,"My Dear Melancholy,",1,3.8,Clean,2020-01-30,2018-03-30,R&B,2010
+516,7MXVkk9YMctZqd1Srtv4MB,Starboy,The Weeknd,Starboy,89,3.8,Explicit,2020-01-30,2016-11-25,R&B,2010
+517,2UAWYufVaO3EnUUNzl0ppO,CANGURO,WOS,CARAVANA,60,3.3,Explicit,2020-01-13,2019-10-04,Trap,2010
+518,0sf12qNH5qcw8qpgymFOqD,Blinding Lights,The Weeknd,Blinding Lights,22,3.4,Clean,2020-01-12,2019-11-29,R&B,2010
+519,5LZQ5s0kRZS9nBSd1xLK7U,Trndsttr (feat. M. Maggie) - Lucian Remix,Black Coast,Trndsttr (feat. M. Maggie) [Lucian Remix],54,3.0,Clean,2019-11-20,2016-02-17,Electronic,2010
+520,5OLtfHu6jyUHuLNto6gSRb,Hearts Will Bleed,Janice,Hearts Will Bleed,0,2.8,Clean,2019-11-09,2019-05-17,Pop,2010
+521,6cy3ki60hLwimwIje7tALf,RITMO (Bad Boys For Life),Black Eyed Peas,RITMO (Bad Boys For Life),69,3.7,Explicit,2019-11-09,2019-10-12,Hip Hop,2010
+522,4xigPf2sigSPmuFH3qCelB,"Genius (feat. Sia, Diplo, and Labrinth)",Sia,"LABRINTH, SIA & DIPLO PRESENT... LSD",73,3.6,Clean,2019-10-25,2019-04-12,Pop,2010
+523,0Ra1s5G3n4gg8ai9EbqbSe,Caramelo,Uzielito Mix,Caramelo,0,3.8,Clean,2019-10-23,2019-10-02,Reggaeton,2010
+524,6fatMybX8VmHUpaxVcXzrz,Tu Sicaria,Ms Nina,Tu Sicaria,1,2.4,Clean,2019-09-29,2017-01-04,Other,2010
+525,46576CnmgT6xr0RaZNF2Kt,Scream,Michael Jackson,Scream,48,4.6,Explicit,2019-09-27,2017-09-27,Pop,2010
+526,1jxO9AwMqYynDsuMWKrPvi,La bikina - En vivo,Luis Miguel,Vivo,70,3.0,Clean,2019-09-16,2000-01-11,Latin,2000
+527,3osYhl8lGmLJYASrrh9Y5f,Morenamía (Dueto 2007),Miguel Bosé,Papito (Deluxe),65,3.8,Clean,2019-09-12,2007-01-01,Latin,2000
+528,2ksOAxtIxY8yElEWw8RhgK,China,Anuel AA,China,73,5.0,Clean,2019-09-08,2019-07-19,Reggaeton,2010
+529,1rgnBhdG2JDFTbYkYRZAku,Dance Monkey,Tones And I,Dance Monkey,60,3.5,Clean,2019-09-08,2019-05-10,Pop,2010
+530,0fea68AdmYNygeTGI4RC18,LA CANCIÓN,J Balvin,OASIS,86,4.0,Clean,2019-08-18,2019-06-28,Reggaeton,2010
+531,2TH65lNHgvLxCKXM3apjxI,Callaita,Bad Bunny,Callaita,74,4.2,Explicit,2019-08-18,2019-05-31,Reggaeton,2010
+532,0dYVthtJea1sfoxIEzqCPw,Ultima Hora,Mackie,Ultima Hora,0,4.1,Explicit,2019-08-10,2018-07-27,Reggaeton,2010
+533,0rUkmIjbNfvl9hedyiXFgr,Ultraviolet,Freya Ridings,Ultraviolet,8,3.6,Clean,2019-08-06,2018-06-15,Pop,2010
+534,6pK5edDoyrn4mWwRSVc2a5,Amor Genuino,Ozuna,Amor Genuino,0,3.0,Clean,2019-07-24,2019-06-04,Reggaeton,2010
+535,5viMPYdJ0ppLiOSIYN3u8J,No Te Merezco,Micro TDH,No Te Merezco,0,3.5,Clean,2019-07-20,2017-07-19,Latin,2010
+536,2Zc0eCRY66Qav0fos5fAXi,Querer Volar,Micro TDH,Querer Volar,0,3.2,Clean,2019-07-20,2018-02-16,Latin,2010
+537,5SYObHuzlmVqcoc4j6Zf8m,No Creo En Mujeres,Micro TDH,No Creo En Mujeres,0,3.6,Clean,2019-07-20,2017-09-27,Latin,2010
+538,38hRzJoq5hX7qouXGVZKkK,Me Conozco,Micro TDH,Inefable,55,4.0,Clean,2019-07-20,2017-06-16,Latin,2010
+539,2xBI6AY8Nxw8BQNX0hzRr2,Fantasía,Chava Salazar,Fantasía,11,3.4,Clean,2019-07-20,2019-06-24,Latin,2010
+540,4TCOIAJbyfBR1VpB9FNn7K,¿Por que diablos te vas?,Alan M.,¿Por que diablos te vas?,15,2.8,Clean,2019-07-20,2019-03-21,Other,2010
+541,0HVp8yt5WSr4uB3mtsnCKe,Lost,Jay Oc,Lost,0,3.2,Explicit,2019-07-20,2019-01-01,Hip Hop,2010
+542,50pwX4Gxfpdt9VaVM1nKLr,Amar,Lucifer,Amar,0,3.1,Clean,2019-07-20,2019-04-21,Rock,2010
+543,6H9H6BYpuWycXP9HEx3vdJ,Seguimos Laborando,Grupo 360,Seguimos Laborando,71,3.4,Explicit,2019-07-20,2019-05-09,Other,2010
+544,4ASRxAXf7clZ3PbHrpiGW1,Debes Buscarte Un Nuevo Amor,Javier Rojas Henríquez,Debes Buscarte Un Nuevo Amor,0,3.8,Clean,2019-07-20,2019-03-21,Latin,2010
+545,1DckcUSLpCfYsD1htu4JnF,"Trueno: Bzrp Freestyle Sessions, Vol. 6",Bizarrap,"Trueno: Bzrp Freestyle Sessions, Vol. 6",0,3.3,Clean,2019-07-20,2019-06-30,Trap,2010
+546,1diJK65O3LXfwYvWD5CJsR,Quise Volar,Solmate,Quise Volar,0,2.5,Clean,2019-07-20,2019-03-18,R&B,2010
+547,31rJlVa6XRYeiHE1mVa7De,Culpables,Mr Cashier,Culpables,3,3.4,Clean,2019-07-15,2019-06-19,Hip Hop,2010
+548,4IIctusqp9KdKc0l515DpN,La Vida Sigue,Khenry,La Vida Sigue,4,4.3,Clean,2019-07-15,2019-05-02,Hip Hop,2010
+549,7rknFhrVDyxzTJkPSf7LoW,No Me Conoce - Remix,JHAYCO,No Me Conoce (Remix),2,5.1,Clean,2019-07-10,2019-05-17,Reggaeton,2010
+550,0U6bQIAh6MCGo1xjbIIx2S,Instagram,Dimitri Vegas & Like Mike,Instagram,56,3.1,Explicit,2019-07-05,2019-07-05,Other,2010
+551,30rgxqwKeuE8nnP3SzUqNv,Mentirosa,Mks,Mentirosa,0,3.5,Clean,2019-07-04,2019-06-27,Trap,2010
+552,4oD2Qsi3wtmKAlsC5A3rqS,Vete,Mks,Vete,0,3.3,Explicit,2019-06-30,2019-02-17,Trap,2010
+553,6TqXcAFInzjp0bODyvrWEq,Talk (feat. Disclosure),Khalid,Free Spirit,72,3.3,Clean,2019-06-27,2019-04-05,R&B,2010
+554,7Feaw9WAEREY0DUOSXJLOM,Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy),Martin Garrix,Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy),71,2.7,Explicit,2019-06-27,2019-04-25,Electronic,2010
+555,3B54sVLJ402zGa6Xm4YGNe,Unforgettable,French Montana,Jungle Rules,85,3.9,Explicit,2019-06-26,2017-07-14,Hip Hop,2010
+556,08aYFNUTIOMGq93e2VSArQ,Que Le De,Rauw Alejandro,Que Le De,53,3.8,Clean,2019-06-06,2019-01-25,Reggaeton,2010
+557,7KbF6AdprOXEEHlsq11Z6d,11 PM,Maluma,11:11,76,2.9,Clean,2019-06-06,2019-05-17,Reggaeton,2010
+558,1c0hsvHLELX6y8qymnpLKL,Soltera (Remix),Lunay,Soltera (Remix),68,4.4,Clean,2019-06-06,2019-05-10,Reggaeton,2010
+559,1Ej96GIBCTvgH7tNX1r3qr,Otro Trago,Sech,Sueños,71,3.8,Explicit,2019-06-06,2019-04-19,Reggaeton,2010
+560,27XboT5Wb8VOn7A0heo3Ei,Tengo Todo Excepto a Ti,Luis Miguel,20 Años,74,4.5,Clean,2019-05-28,1990-01-01,Latin,1990
+561,2Fxmhks0bxGSBdJ92vM42m,bad guy,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",81,3.2,Clean,2019-05-21,2019-03-29,Pop,2010
+562,44IIAzBwV82xskUzJSvXNe,Dracukeo,Kidd Keo,Dracukeo,42,2.6,Explicit,2019-05-19,2018-09-20,Trap,2010
+563,2cppGOIz0cuDnKoGzrDsJQ,The Fear,The Score,Pressure,59,3.1,Clean,2019-05-08,2019-02-01,Alternative/Indie,2010
+564,6u7jPi22kF8CTQ3rb9DHE7,Old Town Road (feat. Billy Ray Cyrus) - Remix,Lil Nas X,Old Town Road,3,2.6,Clean,2019-05-08,2019-04-05,Hip Hop,2010
+565,1XL71zPZ4xI63xphOSrd75,Bandoleros,Don Omar,The Fast And The Furious: Tokyo Drift,56,5.1,Clean,2019-05-07,2006-01-01,Reggaeton,2000
+566,224EVTFiLsdQignUFLvDeH,Pa Mí - Remix,Dalex,Pa Mí (Remix),1,6.0,Explicit,2019-04-28,2019-02-07,Reggaeton,2010
+567,6v0lAdFF4haL8xjBIUjtOw,Te Robaré,Nicky Jam,Te Robaré,1,3.4,Clean,2019-04-28,2019-03-22,Reggaeton,2010
+568,0639sfoRA7sW4fGS1EzcQu,Loco (Tu Forma de Ser) [Ft. Rubén Albarrán] - MTV Unplugged,Los Auténticos Decadentes,Fiesta Nacional (Mtv Unplugged),64,4.2,Clean,2019-04-19,2018-10-05,Rock,2010
+569,0b6wdul3A5sQNpIOv03OxP,Ocean Drive,Duke Dumont,Ocean Drive,68,3.4,Clean,2019-04-15,2015-07-31,Electronic,2010
+570,0n0XAmYCMWlzj3W9VdMejw,Happy Together (feat. Ray Toro),Gerard Way,Happy Together (feat. Ray Toro),56,3.0,Clean,2019-04-13,2019-02-08,Rock,2010
+571,0boS4e6uXwp3zAvz1mLxZS,Run Boy Run,Woodkid,The Golden Age,73,3.6,Clean,2019-04-13,2013-01-01,Alternative/Indie,2010
+572,3WYggjHWaIjvonYfDBPDV0,La Chica Del Bikini Azul,Luis Miguel,La Miel De Mis Primeros Éxitos,54,3.0,Clean,2019-04-11,2010-09-14,Latin,2010
+573,74t6ZmO6Vzq553l2zRgdhs,Grease,Frankie Valli,Grease,0,3.4,Clean,2019-04-07,1978-09-14,Pop,1970
+574,4VXejnj5WgM6H72ct2fSgQ,El Chisme,Reykon,El Chisme,45,3.0,Clean,2019-04-06,2016-08-26,Reggaeton,2010
+575,1AKP5JySgNsr2Y04z1yGHJ,"Mujeres (Mozart La Para, Justin Quiles, Farruko, Jowell & Randy) - Remix",Mozart La Para,"Mujeres (Mozart La Para, Justin Quiles, Farruko, Jowell & Randy) [Remix]",43,3.9,Clean,2019-04-06,2018-10-19,Other,2010
+576,3SWqGa1J0M7hSBUDM0KePD,Legend,The Score,ATLAS,68,3.2,Clean,2019-04-05,2017-10-13,Alternative/Indie,2010
+577,3yxmrEhlyvAkTjZXvrg8VX,Light That Fire,Oh The Larceny,Oh the Larceny,51,2.3,Clean,2019-04-05,2017-01-27,Rock,2010
+578,0nlVsRpZgsOZi0BFfzHSL9,Love Really Hurts Without You,Billy Ocean,Here You Are: The Best of Billy Ocean,0,3.0,Clean,2019-03-27,2016-04-29,Rock,2010
+579,2HBo8LhUxBJBsxWaP6ePL3,Si La Ves (feat. Noel Schajris & Leonel García),Franco De Vita,Franco De Vita En Primera Fila,53,4.2,Clean,2019-03-24,2011-05-30,Latin,2010
+580,6dhnmkbc9Z7pGsUyUgZKGX,Tan Sólo Tú (feat. Alejandra Guzmán) - Franco De Vita en Primera Fila,Franco De Vita,Franco De Vita En Primera Fila,65,4.0,Clean,2019-03-24,2011-05-30,Latin,2010
+581,4WtO0pdIHTuVwQAVFmfIHQ,Te Amo,Franco De Vita,Franco De Vita En Primera Fila,60,3.6,Clean,2019-03-24,2011-05-30,Latin,2010
+582,28Ct4qwkQXY2W5yyNCLuVI,Coleccionista de Canciones,Camila,Todo Cambio,72,5.1,Clean,2019-03-24,2006-01-01,Latin,2000
+583,15AbuFJdFrbINydSMSqVhV,Aléjate de Mí,Camila,Dejarte De Amar,73,4.3,Clean,2019-03-24,2010-02-09,Latin,2010
+584,4OyzSXRSadNQt5EMwASdap,Todo Cambió,Camila,Todo Cambio,76,3.2,Clean,2019-03-24,2006-01-01,Latin,2000
+585,5EhzE6HJaCcLFrf5rPqvpk,Mientes,Camila,Dejarte De Amar,78,3.4,Clean,2019-03-23,2010-02-09,Latin,2010
+586,4DbhxwlkhTbCTqlZptxmI6,Swing,Danny Ocean,54+1,74,2.6,Clean,2019-03-23,2019-03-22,Reggaeton,2010
+587,14msK75pk3pA33pzPVNtBF,7 rings,Ariana Grande,7 rings,2,3.0,Explicit,2019-03-23,2019-01-18,Pop,2010
+588,14sOS5L36385FJ3OL8hew4,Happy Now,Kygo,Happy Now,64,3.5,Clean,2019-03-18,2018-10-26,Electronic,2010
+589,69zxj1EFDfAouZu9JDmQld,Secrets - Radio Edit,Tiësto,Secrets (Radio Edit),57,3.6,Clean,2019-03-18,2015-04-03,Electronic,2010
+590,7l94dyN2hX9c6wWcZQuOGJ,Dangerous Woman,Ariana Grande,Dangerous Woman,1,3.9,Clean,2019-03-18,2016-05-20,Pop,2010
+591,6Qs4SXO9dwPj5GKvVOv8Ki,Dancing With A Stranger (with Normani),Sam Smith,Dancing With A Stranger (with Normani),73,2.9,Clean,2019-03-18,2019-01-11,Pop,2010
+592,6MWtB6iiXyIwun0YzU6DFP,Wow.,Post Malone,Wow.,3,2.5,Explicit,2019-03-18,2018-12-24,Hip Hop,2010
+593,4y3OI86AEP6PQoDE6olYhO,Sucker,Jonas Brothers,Sucker,3,3.0,Clean,2019-03-18,2019-03-01,Pop,2010
+594,6Ges5C2IE738iJh4HyQizQ,Ay Vamos,J Balvin,La Familia B Sides,76,3.8,Clean,2019-03-17,2014-09-12,Reggaeton,2010
+595,2D3z17LBMJ2HEHeBFFjTLi,Reggaeton,J Balvin,Reggaeton,64,2.6,Clean,2019-03-17,2018-11-17,Reggaeton,2010
+596,31UjYv5vLsDkzchJOtUMtW,HP,Maluma,HP,1,3.1,Explicit,2019-03-17,2019-03-01,Reggaeton,2010
+597,4ozSZEX79T7QuDaifobXLO,La Chica De Humo - MTV Unplugged,Emmanuel,MTV Unplugged: Con El Alma Desnuda,61,5.0,Clean,2019-03-17,2017-10-27,Latin,2010
+598,76N7FdzCI9OsiUnzJVLY2m,Rumour Has It,Adele,21,1,3.7,Clean,2019-03-09,2011-01-19,Pop,2010
+599,3CKCZ9pfwAfoMZlMncA1Nc,Set Fire to the Rain,Adele,21,3,4.0,Clean,2019-03-09,2011-01-19,Pop,2010
+600,7IWkJwX9C0J7tHurTD7ViL,When We Were Young,Adele,25,0,4.8,Clean,2019-03-09,2016-06-24,Pop,2010
+601,1pViOt8zA2rl2NfHeDGnyD,You're The One That I Want,John Travolta,Grease,0,2.8,Clean,2019-03-06,1978-09-14,Other,1970
+602,1TfqLAPs4K3s2rJMoCokcS,Sweet Dreams (Are Made of This) - 2005 Remaster,Eurythmics,Sweet Dreams (Are Made Of This),83,3.6,Clean,2019-03-06,1983-01-04,Other,1980
+603,2WfaOiMkCvy7F5fcp2zZ8L,Take on Me,a-ha,Hunting High and Low,86,3.8,Clean,2019-03-06,1985-06-01,Other,1980
+604,029NqmIySn1kOY305AAhxT,Sledgehammer,Peter Gabriel,So (Remastered),65,5.2,Clean,2019-03-06,1986-05-19,Rock,1980
+605,7uH27oIt4a6cIFCA8ZPcyG,Baila Baila Baila,Ozuna,Baila Baila Baila,2,2.6,Clean,2019-03-04,2019-01-05,Reggaeton,2010
+606,5w9c2J52mkdntKOmRLeM2m,Con Calma,Daddy Yankee,Con Calma,79,3.2,Clean,2019-03-04,2019-01-24,Reggaeton,2010
+607,6WkJ2OK163XXS2oARUC9JM,Dancin (feat. Luvli) - Krono Remix,Aaron Smith,Dancin (feat. Luvli) [Krono Remix],77,3.3,Clean,2019-03-04,2014-11-07,Pop,2010
+608,4gphxUgq0JSFv2BCLhNDiE,Jailhouse Rock,Elvis Presley,Elvis' Golden Records,66,2.4,Clean,2019-02-28,1958-03-21,Rock,1950
+609,5yxIenY5kSLlgTr3XGYw9p,Rock With You,Michael Jackson,"HIStory - PAST, PRESENT AND FUTURE - BOOK I",57,3.7,Clean,2019-02-15,1995-06-16,Pop,1990
+610,09S64DUkxIX9EwIaULu6yN,Sin Contrato (feat. Fifth Harmony),Maluma,Sin Contrato (feat. Fifth Harmony),55,3.0,Clean,2019-02-12,2015-11-20,Reggaeton,2010
+611,5W83ErFkO3aKAIS1WMi6u0,Secreto,Anuel AA,Secreto,70,4.3,Clean,2019-02-12,2019-01-15,Reggaeton,2010
+612,288EugdWdu9RZNh8EYXV0n,Champagne Showers,LMFAO,Sorry For Party Rocking,48,4.4,Clean,2019-02-10,2011-01-01,Electronic,2010
+613,1V4jC0vJ5525lEF1bFgPX2,Shots,LMFAO,Party Rock,70,3.7,Explicit,2019-02-09,2009-01-01,Electronic,2000
+614,5R86JTUx4IQRsAo4nKbCDY,Sorry For Party Rocking,LMFAO,Sorry For Party Rocking,53,3.4,Explicit,2019-02-09,2010-12-01,Electronic,2010
+615,2OBKvpCTPo0q4qQELJ1n7h,Sexy And I Know It,LMFAO,Sorry For Party Rocking,59,3.3,Clean,2019-02-09,2010-12-01,Electronic,2010
+616,4650WGL6InVqP7YN5POqIz,Party Rock Anthem,LMFAO,Sorry For Party Rocking,62,4.4,Clean,2019-02-09,2010-12-01,Electronic,2010
+617,1OJkKHmXsZVKtWlECdpDAe,Sé Que Te Duele,Alejandro Fernández,Rompiendo Fronteras,72,3.8,Clean,2019-02-09,2017-01-13,Latin,2010
+618,4NUt1fcnO9aQAELBgXq3Kr,Me Dediqué a Perderte,Alejandro Fernández,A Corazón Abierto,80,3.9,Clean,2019-02-09,2004-09-01,Latin,2000
+619,7GVUmCP00eSsqc4tzj1sDD,Come and Get Your Love - Single Version,Redbone,Come and Get Your Love,80,3.4,Clean,2019-01-30,1973-11-01,Other,1970
+620,1MrZ8hGkUWMmT816wPaMgE,La flaca,Jarabe De Palo,La Flaca - Edición 10º Aniversario,59,4.4,Clean,2019-01-26,2006-06-23,Rock,2000
+621,3ge3q3Hz0KWhQX5EAQcwEy,Así Es la Vida,Elefante,Lo Que Andábamos Buscando (Special Para CEV),56,5.2,Clean,2019-01-24,2002-08-30,Rock,2000
+622,2KH16WveTQWT6KOG9Rg6e2,Eye of the Tiger,Survivor,Rocky IV,76,4.1,Clean,2019-01-23,1985-01-01,Rock,1980
+623,1wjzFQodRWrPcQ0AnYnvQ9,I Like Me Better,Lauv,I Like Me Better,3,3.3,Clean,2019-01-18,2017-05-19,Pop,2010
+624,1eqaKknyrnApkoUST7Wc3F,Radar (feat. HONNE),Whethan,Radar (feat. HONNE),27,3.4,Explicit,2019-01-18,2018-09-21,Electronic,2010
+625,1va2rmvHBHJNXmtmq5shS0,McDonalds Rich,SAINt JHN,McDonalds Rich,0,2.9,Explicit,2019-01-18,2018-10-17,Hip Hop,2010
+626,1jNyxG5S2P9gztbfAnrq85,Beach Boy,Aminé,Good For You,34,4.7,Explicit,2019-01-18,2017-07-28,Hip Hop,2010
+627,059bcIhyc2SBwm6sw2AZzd,Te Vi,Piso 21,Te Vi,78,3.9,Clean,2019-01-13,2018-12-14,Reggaeton,2010
+628,1LO951RWD10l9Vys0NrFty,No Te Contaron Mal,Christian Nodal,No Te Contaron Mal,65,2.6,Clean,2019-01-13,2018-09-07,Other,2010
+629,2eHj0klWkwRQuIrNlPpCPa,I'm Every Woman,Whitney Houston,The Bodyguard - Original Soundtrack Album,61,4.8,Clean,2019-01-13,1992-11-17,Pop,1990
+630,0s5DNDV6LAKn2u2Ufa3VjQ,Desconocidos,Mau y Ricky,Desconocidos,57,3.4,Explicit,2019-01-04,2018-10-12,Reggaeton,2010
+631,2LIh4uzqq9cXMPzzmcToHl,Lost on You,LP,Lost on You,3,4.5,Clean,2018-12-27,2017-05-05,Pop,2010
+632,5zsHmE2gO3RefVsPyw2e3T,What's Up Danger (with Black Caviar),Blackway,Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),70,3.7,Clean,2018-12-27,2018-12-14,Hip Hop,2010
+633,0bYg9bo50gSsH3LtXe2SQn,All I Want for Christmas Is You,Mariah Carey,Merry Christmas,74,4.0,Clean,2018-12-26,1994-10-28,Other,1990
+634,2rPE9A1vEgShuZxxzR2tZH,"thank u, next",Ariana Grande,"thank u, next",23,3.5,Explicit,2018-12-26,2018-11-03,Pop,2010
+635,6o8ogTrSX8H0F66Pdz3Tsc,Baby Girl (feat. Lalo Ebratt),Mario Bautista,Baby Girl (feat. Lalo Ebratt),58,3.6,Clean,2018-12-26,2018-08-17,Reggaeton,2010
+636,2cYnZNzFRFK0H7vSNxPsUq,Ella Quiere Beber - Remix,Anuel AA,Ella Quiere Beber (Remix),1,3.7,Clean,2018-12-26,2018-11-02,Reggaeton,2010
+637,7Bpuw2PRlgtIcJIDUtbVph,Que Me Alcance la Vida,Sin Bandera,Hasta Ahora,44,3.8,Clean,2018-12-09,2007-11-13,Latin,2000
+638,6aLJnupvPpT9HLv3xaUhe1,Calma,Pedro Capó,Calma,58,3.0,Clean,2018-12-04,2018-07-20,Latin,2010
+639,2EoOZnxNgtmZaD8uUmz2nD,Black Hole Sun,Soundgarden,Superunknown (Deluxe Edition),80,5.3,Clean,2018-12-02,1994-03-09,Other,1990
+640,1H5IfYyIIAlgDX8zguUzns,Suspicious Minds,Elvis Presley,From Elvis in Memphis,74,4.4,Clean,2018-12-02,1969-06-17,Rock,1960
+641,5wj4E6IsrVtn8IBJQOd0Cl,Wonderwall (Remastered),Oasis,(What's The Story) Morning Glory? (Deluxe Edition) [Remastered],2,4.3,Clean,2018-12-02,1995-10-02,Pop,1990
+642,2aSFLiDPreOVP6KHiWk4lF,Under Pressure - Remastered 2011,Queen,Greatest Hits II,52,3.9,Clean,2018-12-02,1991-10-28,Rock,1990
+643,1lhpxZT57yw5toGJtt8fGE,Old Time Rock & Roll,Bob Seger,Stranger In Town,0,3.2,Clean,2018-12-02,1978-05-05,Rock,1970
+644,3vCHmbyOgc6pgwLUWfU4pF,Somebody To Love - Remastered 2011,Queen,A Day At The Races (2011 Remaster),1,4.9,Clean,2018-12-02,1976-12-10,Rock,1970
+645,4gMgiXfqyzZLMhsksGmbQV,"Another Brick in the Wall, Pt. 2",Pink Floyd,The Wall,81,4.0,Clean,2018-12-02,1979-11-30,Rock,1970
+646,39shmbIHICJ2Wxnk1fPSdz,Should I Stay or Should I Go - Remastered,The Clash,Combat Rock (Remastered),79,3.1,Clean,2018-12-02,1982-01-01,Other,1980
+647,0J6mQxEZnlRt9ymzFntA6z,Livin' On A Prayer,Bon Jovi,Slippery When Wet,5,4.2,Clean,2018-12-02,1986-01-01,Other,1980
+648,7o2CTH4ctstm8TNelqjb51,Sweet Child O' Mine,Guns N' Roses,Appetite For Destruction,13,5.9,Explicit,2018-12-02,1987-07-21,Rock,1980
+649,2sXp9Qmvc7mRaDBjBgcGGi,Every Breath You Take - Remastered 2003,The Police,Synchronicity,1,4.2,Clean,2018-12-02,1983-06-01,Rock,1980
+650,4cCQ0wBIc9YHhvOWvWNj7S,"Hotel California - Live at The Los Angeles Forum, 10/20-22/76",Eagles,"Hotel California (Live at The Los Angeles Forum, 10/20-22/76)",0,6.8,Clean,2018-12-02,1976-01-01,Rock,1970
+651,7KKQIYiCOUQmcGjibsXR4J,I Blame You,Ledisi,The Truth (Deluxe Edition),38,4.2,Clean,2018-12-02,2014-01-01,Soul,2010
+652,6btyEL6NwUa97Nex9cZFvo,Pump It,Black Eyed Peas,Monkey Business,14,3.6,Explicit,2018-12-02,2005-01-01,Hip Hop,2000
+653,6VObnIkLVruX4UVyxWhlqm,Skyfall,Adele,Skyfall,84,4.8,Clean,2018-12-02,2012-10-04,Pop,2010
+654,4jnFqNWeJCeCRHc4HCdxfd,Remember the Time,Michael Jackson,Dangerous,77,4.0,Clean,2018-12-02,1991-11-13,Pop,1990
+655,3wuCCNCnBhJlwkIJTBZFiv,They Don't Care About Us,Michael Jackson,"HIStory - PAST, PRESENT AND FUTURE - BOOK I",76,4.7,Clean,2018-12-02,1995-06-16,Pop,1990
+656,7hh3JjKHOARvAS9LibvchS,Le Pido A Dios,Wolfine,Le Pido A Dios,0,2.8,Clean,2018-12-02,2018-11-02,Reggaeton,2010
+657,5vdp5UmvTsnMEMESIF2Ym7,Another One Bites The Dust - Remastered 2011,Queen,The Game (2011 Remaster),81,3.6,Clean,2018-12-02,1980-06-27,Rock,1980
+658,7tFiyTwD0nx5a1eklYtX2J,Bohemian Rhapsody - Remastered 2011,Queen,A Night At The Opera (Deluxe Remastered Version),75,5.9,Clean,2018-12-02,1975-11-21,Rock,1970
+659,0oCSitNlzsQfuIapF9tXRQ,A Través Del Vaso,Grupo Arranke,A Través Del Vaso,0,3.1,Clean,2018-10-28,2017-10-25,Other,2010
+660,00EPIEnX1JFjff8sC6bccd,No Me Acuerdo,Thalia,No Me Acuerdo,0,3.6,Clean,2018-10-28,2018-06-01,Latin,2010
+661,2dpaYNEQHiRxtZbfNsse99,Happier,Marshmello,Happier,10,3.6,Clean,2018-10-28,2018-08-17,Electronic,2010
+662,1A6OTy97kk0mMdm78rHsm8,Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,Sunflower (Spider-Man: Into the Spider-Verse),3,2.6,Clean,2018-10-28,2018-10-18,Hip Hop,2010
+663,116H0KvKr2Zl4RPuVBruDO,MIA (feat. Drake),Bad Bunny,MIA (feat. Drake),6,3.5,Clean,2018-10-28,2018-10-11,Reggaeton,2010
+664,66NNoydhDCKHjBZjO4OnNm,Mis Sentimientos,Los Ángeles Azules,Cómo Te Voy a Olvidar,0,3.6,Clean,2018-10-28,2013-05-21,Latin,2010
+665,03gvX91BuMzzXPyMjlYhAk,Mi Niña Mujer,Los Ángeles Azules,De Plaza en Plaza,0,3.2,Clean,2018-10-28,2016-09-30,Latin,2010
+666,5hrxAFrYbNTLjAYSrmbpgr,El Listón De Tu Pelo,Los Ángeles Azules,Una Lluvia De Rosas,72,3.6,Clean,2018-10-28,1999-01-01,Latin,1990
+667,51dNexiESqcJLsGLrmg1Nv,Cómo Te Voy A Olvidar,Los Ángeles Azules,Inolvidables,73,4.5,Clean,2018-10-28,1996-01-01,Latin,1990
+668,0HlMshB5JmZjPNbOuOgFHN,Nunca Es Suficiente,Los Ángeles Azules,Esto Sí Es Cumbia,73,4.4,Clean,2018-10-28,2018-06-08,Latin,2010
+669,5YmmqeU1a7KsNzvbj4aCGS,Ordinary People (feat. JP Cooper),Bugzy Malone,B. Inspired,50,4.5,Explicit,2018-10-27,2018-08-17,Other,2010
+670,17LxkTp8UNbPcYrDrI6UOq,Contigo Siempre,Alejandro Fernández,Contigo Siempre,55,3.4,Clean,2018-10-26,2018-08-31,Latin,2010
+671,2N5zMZX7YeL1tico8oQxa9,Crazy,Gnarls Barkley,St. Elsewhere,5,3.0,Clean,2018-10-18,2006-05-02,R&B,2000
+672,6lTTzSk1hRrxp4VMwXBp2l,My Way,Frank Sinatra,Ultimate Sinatra,53,4.6,Clean,2018-10-14,2015-04-17,Other,2010
+673,5b7OgznPJJr1vHNYGyvxau,Fly Me To The Moon (In Other Words),Frank Sinatra,Sinatra/Basie: The Complete Reprise Studio Recordings,72,2.4,Clean,2018-10-14,1962-12-10,Other,1960
+674,5QfCF1pZIwOndS93pytub5,Pa'lante,Lao Ra,Pa'lante,35,3.1,Clean,2018-10-13,2018-09-28,Latin,2010
+675,2JzZzZUQj3Qff7wapcbKjc,See You Again (feat. Charlie Puth),Wiz Khalifa,See You Again (feat. Charlie Puth),82,3.8,Clean,2018-10-06,2015-01-01,Hip Hop,2010
+676,04cd1MHVq1D8v1nuTZoCdv,Puntos Suspensivos,Piso 21,Ubuntu,71,3.1,Clean,2018-10-05,2018-05-11,Reggaeton,2010
+677,6ipp8Dhs33KinlF4BStgca,Justicia,Silvestre Dangond,Justicia,59,3.5,Clean,2018-10-05,2018-06-29,Other,2010
+678,2qLEv5amIpUScIaSa2iYLK,La Fiesta No Se Ha Acabado,Gente De Zona,Overboard (Original Motion Picture Soundtrack),27,1.4,Clean,2018-10-05,2018-04-27,Latin,2010
+679,0lTYnxJdC68v0oXd5xolxY,SUTRA,Sebastian Yatra,MANTRA,66,3.4,Clean,2018-10-05,2018-05-18,Pop,2010
+680,75wp9tpODmy4gnI6WFR5ma,Como Si Nada,Sebastian Yatra,MANTRA,42,3.5,Clean,2018-10-05,2018-05-18,Pop,2010
+681,6ztstiyZL6FXzh4aG46ZPD,Boogie Wonderland (with The Emotions),"Earth, Wind & Fire",I Am,79,4.8,Clean,2018-10-03,1979-06-01,Other,1970
+682,57KKCGty5ptFM9zvMgb99n,Todo El Fin,Alnz G,Todo El Fin,0,3.0,Explicit,2018-10-02,2018-06-28,Reggaeton,2010
+683,0mAGeks6ns4FZWBPkjD9HR,La Mujer Perfecta,KURT,La Mujer Perfecta,50,3.6,Clean,2018-10-02,2018-05-11,Rock,2010
+684,4w8niZpiMy6qz1mntFA5uM,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",DJ Snake,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",71,3.5,Explicit,2018-10-02,2018-09-28,Electronic,2010
+685,5lWiOPIRStb7Qkub64wGVW,Broken People (with Logic & Rag'n'Bone Man),Logic,Bright: The Album,37,3.5,Clean,2018-10-02,2017-12-15,Other,2010
+686,77L1xG4kehRoAB4K37gQEA,"Yo Contigo, Tú Conmigo - The Gong Gong Song / El Tema De La Película ""Gru 3 Mi Villano Favorito""",Morat,Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas Más (Edición Especial),45,3.0,Clean,2018-10-02,2017-06-23,Pop,2010
+687,7nDIflSHQXzaa8zupxwv3U,Yo No Sé Mañana,Luis Enrique,Ciclos,7,4.3,Clean,2018-10-02,2009-05-19,Other,2000
+688,5SxqIG4rs9hxt0FO8gX5ig,Un nuevo amor,Tranzas,Por Siempre,58,3.8,Clean,2018-09-25,2006-01-01,Latin,2000
+689,62FQCSvSUSG3m9uajVkvWe,Lamento Boliviano,Los Enanitos Verdes,Coleccion Aniversario,57,3.7,Clean,2018-09-25,1999-01-01,Rock,1990
+690,4txQPJDlvU72lC6EMhT7m9,Qué Tienes Tú (feat. Jesús de Reik & Mau y Ricky),Dvicio,Qué Tienes Tú (feat. Jesús de Reik & Mau y Ricky),51,3.5,Clean,2018-09-24,2018-05-04,Pop,2010
+691,3YQBIHEtp2l2kNSmmBDkeN,Me mata tu amor (feat. Yomil & El Dany),Angeles,Me Mata Tu Amor (feat. Yomil & El Dany),33,3.4,Clean,2018-09-23,2017-06-23,Latin,2010
+692,7I06oqNgGLTI1un77lWIs6,Veneno,Ventino,Ventino,25,3.0,Clean,2018-09-23,2018-08-17,Pop,2010
+693,4wDxhOnZ4OZqNVUuynhwHf,Masoquista,Cheka,Masoquista,17,3.7,Clean,2018-09-23,2017-03-17,Reggaeton,2010
+694,63bmZnBN1CiJ9sA4qTEe8y,Adiós Amor,Christian Nodal,Me Dejé Llevar,75,3.3,Clean,2018-09-23,2017-08-25,Other,2010
+695,4zIO3ilp5HvTeK3HJHxhMP,Natural,Imagine Dragons,Natural,3,3.2,Clean,2018-09-23,2018-07-17,Alternative/Indie,2010
+696,7uQmJ1jgNzBpATSoWKSPFu,Ya No Tiene Novio,Sebastian Yatra,Ya No Tiene Novio,69,3.3,Clean,2018-09-23,2018-08-10,Pop,2010
+697,2zDj4WjbNDmrRL6Z4YjjCA,Amigos Con Derechos,Reik,Amigos Con Derechos,0,3.8,Clean,2018-09-23,2018-08-31,Latin,2010
+698,4XhqLlodOmH3HVoyztS1zA,Creo en Ti,Reik,Peligro,0,2.8,Clean,2018-09-22,2011-07-05,Latin,2010
+699,10fHq85ktXp1K8mO45bugT,Que Lloro,Sin Bandera,Hasta Ahora,55,4.0,Clean,2018-09-22,2007-11-13,Latin,2000
+700,1Cxd4ZJJ9VOQQpNcpdcZEQ,Cuando Nadie Ve,Morat,Cuando Nadie Ve,57,3.7,Clean,2018-09-22,2018-06-08,Pop,2010
+701,6ixvuvnE27lFE2SvCXpWce,"Ay MI Dios (feat. Pitbull, Yandel & Chacal)",IAmChino,"Ay MI Dios (feat. Pitbull, Yandel & Chacal)",0,4.2,Clean,2018-09-16,2016-02-22,Reggaeton,2010
+702,3QwBODjSEzelZyVjxPOHdq,Otra Vez (feat. J Balvin),Zion & Lennox,Motivan2,78,3.5,Clean,2018-09-16,2016-09-30,Reggaeton,2010
+703,7ppLcVgxpoWAhAa2c0CN3b,Quero Que Tu Vá,Ananda,Quero Que Tu Vá,46,2.3,Explicit,2018-09-16,2018-07-21,Other,2010
+704,06PcFr42yEwK5Dv2cdkcC0,Más Que Amigos,Matisse,Sube,60,3.0,Clean,2018-09-13,2015-06-09,Latin,2010
+705,5MxNLUsfh7uzROypsoO5qe,Dream On,Aerosmith,Aerosmith,8,4.4,Clean,2018-08-27,1973-01-05,Rock,1970
+706,5FVd6KXrgO9B3JPmC8OPst,Do I Wanna Know?,Arctic Monkeys,AM,86,4.5,Clean,2018-08-26,2013-09-09,Alternative/Indie,2010
+707,5SZ6zX4rOrEQferfFC2MfP,Walk This Way,Aerosmith,Toys In The Attic,5,3.7,Clean,2018-08-26,1975-04-08,Rock,1970
+708,225xvV8r1yKMHErSWivnow,"I Don't Want to Miss a Thing - From ""Armageddon"" Soundtrack",Aerosmith,Armageddon - The Album,74,5.0,Clean,2018-08-26,1998-06-23,Rock,1990
+709,7Gx2q0ueNwvDp2BOZYGCMO,Money - 2011 Remastered Version,Pink Floyd,The Dark Side Of The Moon (2011 Remastered Version),3,6.3,Clean,2018-08-26,1973-03-01,Rock,1970
+710,5n6RDaGFSN88oRWuGtYAIN,The Show Must Go On - Remastered 2011,Queen,Innuendo (2011 Remaster),69,4.6,Clean,2018-08-26,1991-02-05,Rock,1990
+711,3EGlnkJGcwz73rT0oE0X1X,Friends Will Be Friends - Remastered 2011,Queen,A Kind Of Magic (2011 Remaster),61,4.1,Clean,2018-08-26,1986-06-02,Rock,1980
+712,7lY8aoN3wUR3NY4nUwigPv,"Paint It, Black - (Original Single Mono Version)",The Rolling Stones,Singles 1965-1967,52,3.7,Clean,2018-08-26,2004-07-12,Rock,2000
+713,7KkzVlps826NezcpXPvEuV,Johnny B. Goode,Chuck Berry,Universal Masters collection,0,2.7,Clean,2018-08-26,1999-12-20,Rock,1990
+714,1lr7QGyV5RohlODzAqnuZA,Back In Time,Huey Lewis & The News,Greatest Hits: Huey Lewis And The News,56,4.3,Clean,2018-08-26,2006-01-01,Rock,2000
+715,2olVm1lHicpveMAo4AUDRB,The Power Of Love,Huey Lewis & The News,Greatest Hits: Huey Lewis And The News,75,3.9,Clean,2018-08-26,2006-01-01,Rock,2000
+716,2EqlS6tkEnglzr7tkKAAYD,Come Together - Remastered 2009,The Beatles,Abbey Road (Remastered),77,4.3,Clean,2018-08-26,1969-09-26,Rock,1960
+717,5CQ30WqJwcep0pYcV4AMNc,Stairway to Heaven - Remaster,Led Zeppelin,Led Zeppelin IV (Deluxe Edition),79,8.0,Clean,2018-08-26,1971-11-08,Rock,1970
+718,4fVn54cP0hasdSHuJthQj1,We Will Rock You,Queen,News Of The World,52,2.0,Clean,2018-08-26,1977-10-28,Rock,1970
+719,7rgZTzcjofQJY5kz9FO3OS,Under Pressure,Queen,Hot Space,49,4.1,Clean,2018-08-26,1982-05-03,Rock,1980
+720,2jNCofCae2Txs2zaegNLOt,Don't Stop Me Now,Queen,Jazz,54,3.5,Clean,2018-08-26,1978-11-10,Rock,1970
+721,7LRMbd3LEoV5wZJvXT1Lwb,T.N.T.,AC/DC,High Voltage,79,3.6,Clean,2018-08-26,1976-05-14,Rock,1970
+722,1RwoXmQ3RvIdfG8bLeX65g,No digas nada,Mario Bautista,No Digas Nada,43,3.2,Clean,2018-08-26,2017-02-24,Reggaeton,2010
+723,5YzA563GXTuwQaRq24z1k5,Como Antes (feat. Wisin),Yandel,#Update,63,3.5,Clean,2018-08-26,2017-09-08,Reggaeton,2010
+724,20pJKlNIU3J1CrvhBr1kQ8,La Ocasión,DJ Luian,La Ocasión,75,5.6,Clean,2018-08-26,2018-03-16,Reggaeton,2010
+725,1KSqYYJFyfTecXFk9M0prc,Escápate Conmigo (feat. Ozuna),Wisin,Victory,75,3.9,Clean,2018-08-26,2017-12-01,Reggaeton,2010
+726,3uvypVUsiIr1B0BccIcsEh,6 AM,J Balvin,La Familia,69,4.1,Clean,2018-08-26,2013-09-29,Reggaeton,2010
+727,1ei3g2hMYh1VKvik9FoUQR,Sólo Mía (feat. Maluma),Yandel,#Update,50,3.4,Clean,2018-08-26,2017-09-08,Reggaeton,2010
+728,40BHOcBhBU6InTXea4VRAK,Quédate Aquí,Mike Bahía,Quédate Aquí,38,3.1,Clean,2018-08-26,2018-03-16,Pop,2010
+729,60NAQrgy1qe55SQH1848Eq,Monstruo,Justin Quiles,Monstruo,0,3.5,Clean,2018-08-26,2018-04-06,Reggaeton,2010
+730,4pEXlAqaJXQUKDteKRLun9,Rock Me Amadeus,Falco,Falco 3 25th Anniversary Edition,42,3.4,Clean,2018-08-26,2010-10-22,Other,2010
+731,7dt6x5M1jzdTEt8oCbisTK,Better Now,Post Malone,beerbongs & bentleys,80,3.9,Explicit,2018-08-26,2018-04-27,Hip Hop,2010
+732,5N5k9nd479b1xpDZ4usjrg,Promises (with Sam Smith),Calvin Harris,Promises (with Sam Smith),70,3.6,Clean,2018-08-26,2018-08-17,Electronic,2010
+733,0d2iYfpKoM0QCKvcLCkBao,Eastside (with Halsey & Khalid),benny blanco,Eastside (with Halsey & Khalid),71,2.9,Clean,2018-08-26,2018-07-12,Pop,2010
+734,0E9ZjEAyAwOXZ7wJC0PD33,In My Mind,Dynoro,In My Mind,77,3.1,Clean,2018-08-26,2018-06-08,Electronic,2010
+735,2xLMifQCjDGFmkHkpNLD9h,SICKO MODE,Travis Scott,ASTROWORLD,82,5.2,Explicit,2018-08-26,2018-08-03,Hip Hop,2010
+736,0VKkyBKCXyR99navhVRqcP,La player (Bandolera),Zion & Lennox,La player (Bandolera),78,4.2,Clean,2018-08-26,2018-02-23,Reggaeton,2010
+737,2RVrdr062uLFxXwIxwdXPH,Te Amo,Piso 21,Te Amo,72,3.4,Clean,2018-08-26,2018-03-15,Reggaeton,2010
+738,4dDurgTN3eGyU0ghzFJ0T1,Have a Drink on Me,AC/DC,Back In Black,64,4.0,Clean,2018-08-25,1980-07-25,Rock,1980
+739,2SiXAy7TuUkycRVbbWDEpo,You Shook Me All Night Long,AC/DC,Back In Black,81,3.5,Clean,2018-08-25,1980-07-25,Rock,1980
+740,08mG3Y1vljYA6bvDt4Wqkj,Back In Black,AC/DC,Back In Black,85,4.3,Clean,2018-08-25,1980-07-25,Rock,1980
+741,5uvucCRBTkxv7VxIDLOqe7,Devuelveme,Ozuna,Aura,66,3.1,Clean,2018-08-25,2018-08-24,Reggaeton,2010
+742,17UUYZ290omPaJY4wKeyHh,Me Dijeron,Ozuna,Aura,51,2.8,Clean,2018-08-25,2018-08-24,Reggaeton,2010
+743,1AVu7Kc2MRrLfOG1RCEf07,Aura,Ozuna,Aura,48,3.1,Clean,2018-08-25,2018-08-24,Reggaeton,2010
+744,5hEM0JchdVzQ5PwvSfITeX,Me Llamas (feat. Maluma) - Remix,Piso 21,Me Llamas (feat. Maluma) [Remix],72,3.5,Clean,2018-08-20,2016-12-02,Reggaeton,2010
+745,0H7cz1bR7w9PulJL7Na774,Vivo Pensando En Ti (feat. Maluma),Felipe Peláez,Vivo Pensando En Ti (feat. Maluma),58,3.9,Clean,2018-08-20,2017-07-14,Other,2010
+746,0O9GcyFNK9v9f4KpWciP8V,Safari,J Balvin,Energía Lado B,47,3.4,Clean,2018-08-20,2017-10-06,Reggaeton,2010
+747,2oRw23oqcaJGKsPajsP8cv,Noche Sin Día,Il Volo,Noche Sin Día,39,2.8,Clean,2018-08-19,2018-05-25,Other,2010
+748,31jt2IfeUqQn9olQBkOuTf,Celos,Fanny Lu,6 Super Hits,27,2.9,Clean,2018-08-16,2009-01-01,Pop,2000
+749,6kPJZM97LwdG9QIsT7khp6,Solo (feat. Demi Lovato),Clean Bandit,Solo (feat. Demi Lovato),68,3.7,Clean,2018-08-14,2018-05-17,Electronic,2010
+750,2alIsNw1mqEShbWyO1HXZZ,Por Perro,Sebastian Yatra,MANTRA,67,4.1,Clean,2018-08-14,2018-05-18,Pop,2010
+751,62o8KoI44JfN7aYxgTnPvh,Mala Mía,Maluma,Mala Mía,67,3.1,Clean,2018-08-11,2018-08-10,Reggaeton,2010
+752,7fa9MBXhVfQ8P8Df9OEbD8,Girls Like You (feat. Cardi B) - Cardi B Version,Maroon 5,Red Pill Blues (Deluxe),73,3.9,Explicit,2018-08-06,2018-06-15,Pop,2010
+753,2EIDj2coW677Md6yQz3DgZ,Space,Capital Cities,Space,0,3.1,Clean,2018-08-06,2018-08-03,Pop,2010
+754,2XXMDz7SPZ4mSFN1PXfHUy,Cuando Te Besé,Becky G,Cuando Te Besé,64,4.2,Clean,2018-08-06,2018-08-02,Reggaeton,2010
+755,5DoLhdU27owX1NMrKLUbUl,"Lean (feat. Towy, Osquel, Beltito & Sammy & Falsetto)",Super Yei,"Lean (feat. Towy, Osquel, Beltito & Sammy & Falsetto)",0,4.3,Explicit,2018-08-01,2017-03-31,Reggaeton,2010
+756,0QAuhJTC2tllcgRNfmcc4S,Contacto en Cuarto,Stiv,Contacto en Cuarto,0,4.2,Clean,2018-08-01,2018-06-22,Reggaeton,2010
+757,7MHN1aCFtLXjownGhvEQlF,Una Lady Como Tú,Manuel Turizo,Una Lady Como Tú,67,3.6,Clean,2018-08-01,2017-04-10,Reggaeton,2010
+758,5u5MvmVtitax9R1Mxh3reC,Dile Que Tu Me Quieres,Ozuna,Odisea,79,3.8,Clean,2018-08-01,2017-08-25,Reggaeton,2010
+759,2g4mmpGFOaVgnZCqpKQDIU,Lento,Nfasis,Lento,0,1.9,Clean,2018-08-01,2016-11-06,Other,2010
+760,7gkWXbAxIYuvtOpcN3p9GJ,God is a woman,Ariana Grande,God is a woman,0,3.3,Explicit,2018-07-30,2018-07-13,Pop,2010
+761,2PYmyMAMlhX1eVevLo5A6n,Se Vuelve Loca,CNCO,CNCO,56,3.2,Clean,2018-07-30,2018-04-06,Reggaeton,2010
+762,2G7V7zsVDxg1yRsu7Ew9RJ,In My Feelings,Drake,Scorpion,74,3.6,Explicit,2018-07-30,2018-06-29,Hip Hop,2010
+763,3mRM4NM8iO7UBqrSigCQFH,"Stayin' Alive - From ""Saturday Night Fever"" Soundtrack",Bee Gees,Greatest,79,4.8,Clean,2018-07-30,1979-01-01,Other,1970
+764,0aym2LBJBk9DAYuHHutrIl,Hey Jude - Remastered 2015,The Beatles,1 (Remastered),69,7.1,Clean,2018-07-30,2000-11-13,Rock,2000
+765,1XgpK29CGGjZnxPYkiRbh4,Hey DJ,CNCO,CNCO,65,3.4,Clean,2018-07-30,2018-04-06,Reggaeton,2010
+766,2zYzyRzz6pRmhPzyfMEC8s,Highway to Hell,AC/DC,Highway to Hell,85,3.5,Clean,2018-07-30,1979-07-27,Rock,1970
+767,57bgtoPSgt236HzfBOd8kj,Thunderstruck,AC/DC,The Razors Edge,85,4.9,Clean,2018-07-30,1990-09-24,Rock,1990
+768,3ITvHA9zhZZdBJsOsAUegF,Amorfoda,Bad Bunny,Amorfoda,0,2.6,Explicit,2018-07-30,2018-02-15,Reggaeton,2010
+769,3t6j6WNv2OSn6qm5Vxynub,GPS (feat. French Montana),Maluma,GPS (feat. French Montana),64,3.6,Explicit,2018-07-30,2017-11-24,Reggaeton,2010
+770,1RouRzlg8OKFeqc6LvdxmB,Felices los 4,Maluma,F.A.M.E.,78,3.8,Clean,2018-07-30,2018-05-18,Reggaeton,2010
+771,6x5LBP3nYXVdIDoomChGr3,Marinero,Maluma,F.A.M.E.,59,3.2,Clean,2018-07-30,2018-05-18,Reggaeton,2010
+772,4xJjD28UsZlqbX7tBV3Aj5,Bad,Michael Jackson,The Essential Michael Jackson,0,4.1,Clean,2018-07-30,2005-07-19,Pop,2000
+773,7azo4rpSUh8nXgtonC6Pkq,Thriller,Michael Jackson,Scream,60,6.0,Clean,2018-07-30,2017-09-27,Pop,2010
+774,6wdviVWctiZnY6tVn6bh6A,Black or White - Single Version,Michael Jackson,Number Ones,62,3.3,Clean,2018-07-30,1979-01-01,Pop,1970
+775,48td6xvpokdYwvbl3JIiXP,Love Never Felt So Good,Michael Jackson,XSCAPE,74,4.1,Clean,2018-07-30,2014-05-09,Pop,2010
+776,2bCQHF9gdG5BNDVuEIEnNk,Smooth Criminal - 2012 Remaster,Michael Jackson,Bad 25th Anniversary,73,4.3,Clean,2018-07-30,2012-09-18,Pop,2010
+777,1OOtq8tRnDM8kG2gqUPjAj,Beat It,Michael Jackson,Thriller 25 Super Deluxe Edition,75,4.3,Clean,2018-07-30,2008-02-08,Pop,2000
+778,5ChkMS8OtdzJeqyybCc9R5,Billie Jean,Michael Jackson,Thriller 25 Super Deluxe Edition,78,4.9,Clean,2018-07-30,2008-02-08,Pop,2000
+779,0e7ipj03S05BNilyu5bRzt,rockstar (feat. 21 Savage),Post Malone,beerbongs & bentleys,81,3.6,Explicit,2018-07-30,2018-04-27,Hip Hop,2010
+780,5SxkdsY1ufZzoq9iXceLw9,no tears left to cry,Ariana Grande,no tears left to cry,2,3.4,Clean,2018-07-30,2018-04-20,Pop,2010
+781,6DCZcSspjsKoFjzjrWoCdn,God's Plan,Drake,Scorpion,83,3.3,Explicit,2018-07-30,2018-06-29,Hip Hop,2010
+782,4kWO6O1BUXcZmaxitpVUwp,Jackie Chan,Tiësto,Jackie Chan,68,3.6,Explicit,2018-07-30,2018-05-18,Electronic,2010
+783,3hVaK0zn3sVWWY8TvN1Te5,Cuando Calienta El Sol,Luis Miguel,Soy Como Quiero Ser,67,3.9,Clean,2018-07-30,1987-07-15,Latin,1980
+784,5Y9fnynLlIvqtM710MHzfz,Síguelo Bailando,Ozuna,Odisea,71,3.8,Clean,2018-07-30,2017-08-25,Reggaeton,2010
+785,6Za3190Sbw39BBC77WSS1C,Criminal,NATTI NATASHA,Criminal,72,3.9,Clean,2018-07-30,2017-09-01,Reggaeton,2010
+786,3xcCix7Jv1Rp90YVmgo35D,Bella,Wolfine,Bella,0,3.3,Clean,2018-07-30,2017-12-29,Reggaeton,2010
+787,6F9yAYUaNbUhdlQyt5uZ3b,La Incondicional,Luis Miguel,Busca Una Mujer,78,4.3,Clean,2018-07-30,1988-11-25,Latin,1980
+788,6De0lHrwBfPfrhorm9q1Xl,Me Rehúso,Danny Ocean,Me Rehúso,75,3.4,Clean,2018-07-30,2016-09-16,Reggaeton,2010
+789,2EzRdhuoPyNJDlep7lnNf2,Dembow,Danny Ocean,Dembow,67,3.6,Clean,2018-07-30,2017-12-08,Reggaeton,2010
+790,7sFYVcKSb24qg0dAkqLEFj,Mi Cama,KAROL G,Mi Cama,57,2.5,Clean,2018-07-30,2018-05-11,Reggaeton,2010
+791,1uKjQoh8JZj9ryuYRhpd7E,Ahora Te Puedes Marchar,Luis Miguel,Soy Como Quiero Ser,78,3.2,Clean,2018-07-30,1987-07-15,Latin,1980
+792,6752EZMgXswvRBH3N2PilO,Unica,Ozuna,Unica,0,3.7,Clean,2018-07-30,2018-04-26,Reggaeton,2010
+793,2XVilv6s9GETnw9PG4T9Mz,El Préstamo,Maluma,F.A.M.E.,64,3.7,Clean,2018-07-30,2018-05-18,Reggaeton,2010
+794,6U2NuJILEOEpW2tVCuqKHb,Dura - Remix,Daddy Yankee,Dura (Remix),62,4.0,Clean,2018-07-30,2018-04-27,Reggaeton,2010
+795,38QmUDpkoYlNbMKvpvAsrE,Mi Cama - Remix,KAROL G,Mi Cama (Remix),53,3.3,Clean,2018-07-30,2018-07-13,Reggaeton,2010
+796,1j6xOGusnyXq3l6IryKF3G,Déjala Que Vuelva (feat. Manuel Turizo),Piso 21,Ubuntu,76,3.7,Clean,2018-07-30,2018-05-11,Reggaeton,2010
+797,39N9RPD9MRb5WmoLzNzPeA,X,Nicky Jam,X,3,2.9,Clean,2018-07-30,2018-03-02,Reggaeton,2010
+798,5LciLoxa1gK70yIUeoHgRx,To My Love - Tainy Remix,Bomba Estéreo,Amanecer (Remixed),65,4.2,Clean,2018-07-30,2016-12-16,Latin,2010
+799,7BwxbmYFy0l3ROHDjV2c14,Culpable O No - Miénteme Como Siempre,Luis Miguel,Busca Una Mujer,76,4.0,Clean,2018-07-30,1988-11-25,Latin,1980
+800,1s2B5cndbqK8rPJEIcKJRQ,Vaina Loca,Ozuna,Vaina Loca,0,2.9,Clean,2018-07-30,2018-06-28,Reggaeton,2010
+801,7ef4DlsgrMEH11cDZd32M6,One Kiss (with Dua Lipa),Calvin Harris,One Kiss (with Dua Lipa),80,3.6,Clean,2018-07-30,2018-04-06,Electronic,2010
+802,58q2HKrzhC3ozto2nDdN4z,I Like It,Cardi B,Invasion of Privacy,78,4.2,Explicit,2018-07-30,2018-04-06,Hip Hop,2010
+803,4QtiVmuA88tPQiCOHZuQ5b,"1, 2, 3 (feat. Jason Derulo & De La Ghetto)",Sofía Reyes,"1, 2, 3 (feat. Jason Derulo & De La Ghetto)",64,3.4,Clean,2018-07-30,2018-02-16,Latin,2010
+804,7DrluKkTviBwCc8AV3VGmf,Clandestino,Shakira,Clandestino,70,3.9,Clean,2018-07-30,2018-06-08,Latin,2010
+805,6jA8JUuPCGYjFcgw0AoM5T,Me Niego (feat. Ozuna & Wisin),Reik,Me Niego (feat. Ozuna & Wisin),1,3.7,Clean,2018-07-30,2018-02-16,Latin,2010
+806,5qFeMRz4TvetPmzjre9Dq7,No Es Justo,J Balvin,Vibras,72,4.2,Clean,2018-07-30,2018-05-25,Reggaeton,2010
+807,2ijef6ni2amuunRoKTlgww,Sin Pijama,Becky G,Sin Pijama,67,3.1,Clean,2018-07-30,2018-04-20,Reggaeton,2010
+808,4DnHUy01jEA4b5ydC3HgsT,Live It Up - Official Song 2018 FIFA World Cup Russia,Nicky Jam,Live It Up (Official Song 2018 FIFA World Cup Russia),57,3.5,Clean,2018-07-30,2018-05-25,Reggaeton,2010
